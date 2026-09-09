@@ -4,10 +4,10 @@
   "steam_build_id": "25208472",
   "game_version": "0.1.26090911",
   "engine_version": "5.5.4",
-  "mod_version": "0.1.0",
+  "mod_version": "0.1.1",
   "source_locres_sha256": "fbf516facaad2800615e0f6b8266f607c2cc6378f32bca06960e062c3f5f0ad5",
   "source_entries": 3008,
   "locale": "ru",
-  "patch_sha256": "cb5960438f732d9aeff8f5797af94382e1f03b23bf170f38ec638908d680bc4a",
+  "patch_sha256": "a22fe83f04d2997f84e2345f0860348b0b3c979cc5ca38f25a5ad7e324a2a43c",
   "translated_entries": 3008
 }
