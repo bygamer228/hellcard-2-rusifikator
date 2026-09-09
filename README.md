@@ -1,6 +1,8 @@
-# HELLCARD II Playtest — русский перевод
+# HELLCARD 2 (HELLCARD II) — Русификатор Playtest
 
-Неофициальный русификатор бета-версии HELLCARD II для Steam.
+Неофициальный русификатор HELLCARD II Playtest для Steam: русский перевод интерфейса, карт, предметов, подсказок и реплик.
+
+Unofficial Russian translation for HELLCARD II Playtest (HELLCARD 2).
 
 **Совместимость:** Steam App ID `5054420`, сборка `25208472`, версия игры `0.1.26090911`. Это патч для Playtest; совместимость с другими сборками не проверена.
 
