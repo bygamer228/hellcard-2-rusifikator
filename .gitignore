@@ -1,0 +1,8 @@
+.build/
+__pycache__/
+*.pyc
+*.log
+*.sav
+source.csv
+translated.csv
+roundtrip.csv

@@ -1,0 +1,20 @@
+{
+  "entries": 3008,
+  "placeholder_and_tag_errors": 0,
+  "unchanged_keys": [
+    "/EVENT_ACTION_SHRINE_DARK",
+    "/CARD_DESCRIPTION_DOT",
+    "/CARD_TEXT_COMMA",
+    "/CARD_DESCRIPTION_EXHAUST",
+    "/CARD_CLERIC_CONDEMN_DESC",
+    "/INFLUENCE_MODIFY_COST_VALUE_TYPE_MODE",
+    "/INFLUENCE_MODIFY_COST_VALUE_TYPE",
+    "/EQUIPMENT_REPLACE_CARDS_ONE_TYPE",
+    "/OPTIONS_FPS_LIMIT_VALUE_FORMAT",
+    "/OPTIONS_WARNING_REASON_LINE"
+  ],
+  "changed_newline_keys": [],
+  "changed_literal_number_keys": [],
+  "locres_roundtrip": "pass",
+  "pak_roundtrip": "pass"
+}
