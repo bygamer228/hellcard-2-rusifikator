@@ -1,5 +1,5 @@
 {
-  "entries": 3008,
+  "entries": 3852,
   "placeholder_and_tag_errors": 0,
   "unchanged_keys": [
     "/EVENT_ACTION_SHRINE_DARK",
@@ -10,10 +10,16 @@
     "/INFLUENCE_MODIFY_COST_VALUE_TYPE",
     "/EQUIPMENT_REPLACE_CARDS_ONE_TYPE",
     "/OPTIONS_FPS_LIMIT_VALUE_FORMAT",
-    "/OPTIONS_WARNING_REASON_LINE"
+    "/OPTIONS_WARNING_REASON_LINE",
+    "/FCC69F791F2044398C1CC1734F9EB375",
+    "/69F957DC7DB14DB4989643E2D398E759",
+    "/B691B708458DBDDCAEB000BF4D6BB72F"
   ],
   "changed_newline_keys": [],
   "changed_literal_number_keys": [],
+  "main_catalog_entries": 3008,
+  "supplemental_entries": 844,
+  "supplemental_identity_and_hash_check": "pass",
   "locres_roundtrip": "pass",
   "pak_roundtrip": "pass"
 }

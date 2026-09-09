@@ -1,0 +1,5066 @@
+[
+  {
+    "namespace": "",
+    "key": "BFF4367B43B27394F654AEAEF3C91797",
+    "source": "{Description}. Current reward: {Value}",
+    "translation": "{Description}. Текущая награда: {Value}"
+  },
+  {
+    "namespace": "",
+    "key": "6005D5184F2CD5DA697EE2B25A01DDF2",
+    "source": "After this Battle, {Suffix}.",
+    "translation": "После этого боя: {Suffix}."
+  },
+  {
+    "namespace": "",
+    "key": "DC093F6E486E3571E64E1C9CDC585F53",
+    "source": "After {Counter} Battles, {Suffix}.",
+    "translation": "Когда завершите бои ({Counter}): {Suffix}."
+  },
+  {
+    "namespace": "",
+    "key": "EC410B0B4DD0F57AB874B3AD39863B90",
+    "source": "After 1 Battle, {Suffix}.",
+    "translation": "После 1 боя: {Suffix}."
+  },
+  {
+    "namespace": "",
+    "key": "F2AF3CDF45FC8D74F40753B69CE69126",
+    "source": "Tracks Extraction Reward level.\r\nCurrent Reward level: {RewardsLevel}",
+    "translation": "Отслеживает уровень награды за выход.\nТекущий уровень награды: {RewardsLevel}"
+  },
+  {
+    "namespace": "",
+    "key": "C8DCD2304D5FADB29C3191A47EABCB68",
+    "source": "Helmet",
+    "translation": "Шлем"
+  },
+  {
+    "namespace": "",
+    "key": "DF57FBC5469B5F767EA1158BE99928E7",
+    "source": "Outfit",
+    "translation": "Одежда"
+  },
+  {
+    "namespace": "",
+    "key": "EAEE720A4A878402B840118ED6D48993",
+    "source": "Primary weapon",
+    "translation": "Основное оружие"
+  },
+  {
+    "namespace": "",
+    "key": "4EF95A384D2D1CF5C4E00E89C0E2325D",
+    "source": "Secondary weapon",
+    "translation": "Дополнительное оружие"
+  },
+  {
+    "namespace": "",
+    "key": "754605924C27EB5040D0C888E4B844CD",
+    "source": "Max Artifacts Weight <img id=\"Weight\"/>",
+    "translation": "Предельный вес артефактов <img id=\"Weight\"/>"
+  },
+  {
+    "namespace": "",
+    "key": "71A4F86845418AB7701A8CA1C4CDA2F4",
+    "source": "Max Block <img id=\"MaxBlock\"/>",
+    "translation": "Максимальный блок <img id=\"MaxBlock\"/>"
+  },
+  {
+    "namespace": "",
+    "key": "9D64034E4640A060A93C23AF529CF524",
+    "source": "Base Mana <img id=\"Mana\"/>",
+    "translation": "Базовая мана <img id=\"Mana\"/>"
+  },
+  {
+    "namespace": "",
+    "key": "FBAD75DA4AF8341860F109AF283AC6E2",
+    "source": "Bonus Mana Point <img id=\"Mana\"/> Chance",
+    "translation": "Шанс дополнительного очка маны <img id=\"Mana\"/>"
+  },
+  {
+    "namespace": "",
+    "key": "CD8D4A7D493E8C4B3A8A018D5E3A77FE",
+    "source": "HP <img id=\"Heart\"/>",
+    "translation": "Здоровье <img id=\"Heart\"/>"
+  },
+  {
+    "namespace": "",
+    "key": "76C6F99442830F44868349B79E5B8497",
+    "source": "Cards Drawn",
+    "translation": "Добор карт"
+  },
+  {
+    "namespace": "",
+    "key": "3F65FF3846E4CBB6EF594BB09ED181BD",
+    "source": "Bonus Card Chance",
+    "translation": "Шанс дополнительной карты"
+  },
+  {
+    "namespace": "",
+    "key": "FDC72CA84E5EC8A58ADC11874F919E06",
+    "source": "Select next Location",
+    "translation": "Выбрать следующую локацию"
+  },
+  {
+    "namespace": "",
+    "key": "1D0EA63040925689FA86B094D2CA52A9",
+    "source": "Small",
+    "translation": "Малый"
+  },
+  {
+    "namespace": "",
+    "key": "F4A03E5C48FE869E03E076834F8CD6DF",
+    "source": "Medium",
+    "translation": "Средний"
+  },
+  {
+    "namespace": "",
+    "key": "C7C3D7AC4C99A0E708277AB6C051BE42",
+    "source": "Large",
+    "translation": "Большой"
+  },
+  {
+    "namespace": "",
+    "key": "9D6320A74D3194E3E41812A7C87214D6",
+    "source": "<card_attack>Attacks</>",
+    "translation": "<card_attack>Атаки</>"
+  },
+  {
+    "namespace": "",
+    "key": "A7A902B7419DA963BF2A949CB08ECD23",
+    "source": "<card_skill>Skills</>",
+    "translation": "<card_skill>Навыки</>"
+  },
+  {
+    "namespace": "",
+    "key": "34130CDE464460A2FE7B5CB036B2B082",
+    "source": "<card_power>Powers</>",
+    "translation": "<card_power>Силы</>"
+  },
+  {
+    "namespace": "",
+    "key": "8FADB66F4F18165293F0BE9418749B81",
+    "source": "<card_status>Statuses</>",
+    "translation": "<card_status>Состояния</>"
+  },
+  {
+    "namespace": "",
+    "key": "D66D1AB542928B46F83DB4BC47C78BE1",
+    "source": "<card_attack>Attack</>",
+    "translation": "<card_attack>Атака</>"
+  },
+  {
+    "namespace": "",
+    "key": "F6AD12F942CE7DDAD7295A9402BC05B4",
+    "source": "<card_skill>Skill</>",
+    "translation": "<card_skill>Навык</>"
+  },
+  {
+    "namespace": "",
+    "key": "D5A3BFD14574D1664B94239723A8EC2B",
+    "source": "<card_power>Power</>",
+    "translation": "<card_power>Сила</>"
+  },
+  {
+    "namespace": "",
+    "key": "08B5140143DCE67EC18488A9FB5923AB",
+    "source": "<card_status>Status</>",
+    "translation": "<card_status>Состояние</>"
+  },
+  {
+    "namespace": "",
+    "key": "A14B01234C2792E05CEBF98619B8A684",
+    "source": "start of your turn",
+    "translation": "начало вашего хода"
+  },
+  {
+    "namespace": "",
+    "key": "36F60E2542AB9FB1AECB868E05B662C2",
+    "source": "end of your turn",
+    "translation": "конец вашего хода"
+  },
+  {
+    "namespace": "",
+    "key": "8A6ECDFB411E7BDDA8C39B9D40A1C476",
+    "source": "start of monsters turn",
+    "translation": "начало хода врагов"
+  },
+  {
+    "namespace": "",
+    "key": "708E758B4355500987829D83A274D1DD",
+    "source": "end of turn",
+    "translation": "конец хода"
+  },
+  {
+    "namespace": "",
+    "key": "718DB23643B0320D203813B564BF8488",
+    "source": "<card_damage>Call to Arms</> - On death, give {block} <img id=\"Block\"/> to all enemies.",
+    "translation": "<card_damage>К оружию</> — при смерти даёт всем врагам {block} <img id=\"Block\"/>."
+  },
+  {
+    "namespace": "",
+    "key": "1EDF53C54DEB9BD29EC63798AC1A7E10",
+    "source": "Receive {Gemstone} <img id=\"Gemstones\"/> split between all Characters, after killing this Monster.",
+    "translation": "Награда за убийство этого врага: {Gemstone} <img id=\"Gemstones\"/>. Её разделят между всеми героями."
+  },
+  {
+    "namespace": "",
+    "key": "21CA59D34F5229F15CAF99BFEC223DDC",
+    "source": "Receive {Gemstone} <img id=\"Gemstones\"/>, after killing this Monster.",
+    "translation": "За убийство этого врага вы получите {Gemstone} <img id=\"Gemstones\"/>."
+  },
+  {
+    "namespace": "",
+    "key": "3D147C0E41411D2C68EBA1973F39E1AC",
+    "source": "<card_damage>Tank</> - Damage to other monsters is dealt to the nearest <card_damage>Tank</> in the same sector instead.",
+    "translation": "<card_damage>Защитник</> — урон, предназначенный другим врагам, вместо них получает ближайший <card_damage>Защитник</> в том же секторе."
+  },
+  {
+    "namespace": "",
+    "key": "4BACE52F4F1085C1515932BD61C7BB01",
+    "source": "<card_damage>Final Order</> - On death, increases all monsters' Strength by {buff}.",
+    "translation": "<card_damage>Последний приказ</> — при смерти повышает Силу всех врагов на {buff}."
+  },
+  {
+    "namespace": "",
+    "key": "6B8E9E0D4B36648B260C6E828E677742",
+    "source": "Receive {Gemstone} <img id=\"Gemstones\"/> after killing this Monster.",
+    "translation": "За убийство этого врага вы получите {Gemstone} <img id=\"Gemstones\"/>."
+  },
+  {
+    "namespace": "",
+    "key": "055DC48D43F563A9C7B9AD943734C75C",
+    "source": " Magic Attack AOE",
+    "translation": " Массовая магическая атака"
+  },
+  {
+    "namespace": "",
+    "key": "AA46B60E47599D6B423A2E834E8D2FB3",
+    "source": "Attacks all Heroes from any Distance.",
+    "translation": "Атакует всех героев с любой дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "C662EC8C425311D04651E39D2B36E6DB",
+    "source": "{num} times",
+    "translation": "всего атак: {num}"
+  },
+  {
+    "namespace": "",
+    "key": "D70ED02446A4D6CACF8111A0CB7DCD99",
+    "source": "once",
+    "translation": "однократно"
+  },
+  {
+    "namespace": "",
+    "key": "4772572D4F1C3035A3FD769EA17F56FC",
+    "source": "Attacks all Heroes {times} from any distance.",
+    "translation": "Атакует всех героев с любой дистанции ({times})."
+  },
+  {
+    "namespace": "",
+    "key": "7D8FF1E44104D20CDF5E7F922CEB0D6C",
+    "source": "Block",
+    "translation": "Блок"
+  },
+  {
+    "namespace": "",
+    "key": "28E7CFEE46039FDB3AAEE1896546E2CF",
+    "source": "Gains Block.",
+    "translation": "Получает блок."
+  },
+  {
+    "namespace": "",
+    "key": "0C01C1E24F4B746E440083A3F3199AFE",
+    "source": "Gains {value} <img id=\"Block\"/>.",
+    "translation": "Получает {value} <img id=\"Block\"/>."
+  },
+  {
+    "namespace": "",
+    "key": "25933BC34D49C2C9A3583398368F391A",
+    "source": "Fly",
+    "translation": "Полёт"
+  },
+  {
+    "namespace": "",
+    "key": "7A7892114D60C9DFCC7BC1A05BE9A8BD",
+    "source": "Changes position",
+    "translation": "Меняет позицию"
+  },
+  {
+    "namespace": "",
+    "key": "AA848AC446E1C35CFC0071A66505477E",
+    "source": "Buff many",
+    "translation": "Массовое усиление"
+  },
+  {
+    "namespace": "",
+    "key": "D1E37C4243C03D0F5D5D8F8A418E398F",
+    "source": "Increases all monsters' Strength by {buff}.",
+    "translation": "Повышает Силу всех врагов на {buff}."
+  },
+  {
+    "namespace": "",
+    "key": "63BBD8EB46FB045A4DF4E88DF5866710",
+    "source": "Debuff",
+    "translation": "Негативный эффект"
+  },
+  {
+    "namespace": "",
+    "key": "4868FD3C4D28404C39E338A78AABB9F9",
+    "source": "Apply a negative effect on a hero in the corresponding Sector.",
+    "translation": "Накладывает негативный эффект на героя в своём секторе."
+  },
+  {
+    "namespace": "",
+    "key": "C6C14002400A909C34697FA5460AF199",
+    "source": "Devour",
+    "translation": "Пожирание"
+  },
+  {
+    "namespace": "",
+    "key": "A34C8C774DE9BE9711E77B8009AF8469",
+    "source": "Eats wounded enemies with {thresh} <img id=\"Heart\"/> or less. Heal {hp_add} <img id=\"Heart\"/> and {str_add} Strength for each.",
+    "translation": "Пожирает раненых врагов, у которых не более {thresh} <img id=\"Heart\"/>. За каждого восстанавливает {hp_add} <img id=\"Heart\"/> и получает {str_add} Силы."
+  },
+  {
+    "namespace": "",
+    "key": "398E40274365A727970C8AB601EAB919",
+    "source": " Flank",
+    "translation": " Обход с фланга"
+  },
+  {
+    "namespace": "",
+    "key": "02C6FE1745010A38BA4746A93008AD73",
+    "source": "Changes slice.",
+    "translation": "Меняет сектор."
+  },
+  {
+    "namespace": "",
+    "key": "4DDAE53846B894A46DEF2996DB43DF1E",
+    "source": "Flee",
+    "translation": "Побег"
+  },
+  {
+    "namespace": "",
+    "key": "8C1F419543DBB6C76E9F759892F46016",
+    "source": "Runs away from the battle.",
+    "translation": "Сбегает с поля боя."
+  },
+  {
+    "namespace": "",
+    "key": "DBA12FD84D51C873B22BDE82733E7285",
+    "source": "Focus",
+    "translation": "Сосредоточение"
+  },
+  {
+    "namespace": "",
+    "key": "FB445B2C46366CEE8B3F228322DEC21E",
+    "source": "Next attack hits more times.",
+    "translation": "Следующая атака нанесёт больше ударов."
+  },
+  {
+    "namespace": "",
+    "key": "C757AA014477F1CE41F9289F24C873E5",
+    "source": "Heal Most Wounded",
+    "translation": "Исцеление тяжелораненого"
+  },
+  {
+    "namespace": "",
+    "key": "F1BFF064491D2D13C4C3D4ACC5C0F9E1",
+    "source": "Heals most wounded monster to full HP.",
+    "translation": "Полностью восстанавливает здоровье самого раненого врага."
+  },
+  {
+    "namespace": "",
+    "key": "5982FEAD4CCFA57C92EACFB3B42F8FD6",
+    "source": "Heals most wounded monster to full <img id=\"Heart\"/>.",
+    "translation": "Полностью восстанавливает <img id=\"Heart\"/> самого раненого врага."
+  },
+  {
+    "namespace": "",
+    "key": "C583E6694330ECED9D673E98488F76A8",
+    "source": "Melee Attack AOE/Negative Effect",
+    "translation": "Массовая ближняя атака с негативным эффектом"
+  },
+  {
+    "namespace": "",
+    "key": "39BA708F44A1CEC520E746BFCB52981F",
+    "source": "Attacks all Heroes from Melee distance only.",
+    "translation": "Атакует всех героев только с ближней дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "B3C02A1E48042077DF0E4B81D6813DE8",
+    "source": "Attacks all Heroes applying a negative effect from Melee distance only.",
+    "translation": "Атакует всех героев только с ближней дистанции и накладывает негативный эффект."
+  },
+  {
+    "namespace": "",
+    "key": "6F4D640E41A00820EEA12A8D6194228C",
+    "source": "Melee Attack AOE",
+    "translation": "Массовая ближняя атака"
+  },
+  {
+    "namespace": "",
+    "key": "4C605EEF4834543218F477BFA0609B0C",
+    "source": "Attacks all Heroes from Melee distance only.",
+    "translation": "Атакует всех героев только с ближней дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "537B3BFB48D2C8853DBFE8829C73273C",
+    "source": "Melee Attack/Negative Effect",
+    "translation": "Ближняя атака с негативным эффектом"
+  },
+  {
+    "namespace": "",
+    "key": "21E1530C42F16823AAE1EFBC00272A62",
+    "source": "Attacks Hero in the corresponding Sector applying a negative effect from Melee distance only.",
+    "translation": "Атакует героя в своём секторе только с ближней дистанции и накладывает негативный эффект."
+  },
+  {
+    "namespace": "",
+    "key": "79E161D841B8087A965A199480D48C05",
+    "source": "Melee Attack",
+    "translation": "Ближняя атака"
+  },
+  {
+    "namespace": "",
+    "key": "72EEEDCA4C3B5CBB9E117D8542B708FA",
+    "source": "Attacks Hero in the corresponding Sector from Melee distance only.",
+    "translation": "Атакует героя в своём секторе только с ближней дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "AC355C464C68AD5D472EFCAF50DBB399",
+    "source": "Move",
+    "translation": "Перемещение"
+  },
+  {
+    "namespace": "",
+    "key": "DE7DD1D34483B0645D8FCDB88C077666",
+    "source": "Changes distance.",
+    "translation": "Меняет дистанцию."
+  },
+  {
+    "namespace": "",
+    "key": "10DE37A8425270FC4C9283B788903697",
+    "source": "Magic Attack/Negative Effect",
+    "translation": "Магическая атака с негативным эффектом"
+  },
+  {
+    "namespace": "",
+    "key": "2E507D6245FD70534D7EF4BAE68D6CB0",
+    "source": "Attacks Hero in the corresponding Sector .",
+    "translation": "Атакует героя в своём секторе."
+  },
+  {
+    "namespace": "",
+    "key": "98BE137F464BB72014848CB9DB9142E3",
+    "source": "Attacks Hero in the corresponding Sector applying a negative effect from any distance.",
+    "translation": "Атакует героя в своём секторе с любой дистанции и накладывает негативный эффект."
+  },
+  {
+    "namespace": "",
+    "key": "B4E98E8142E133F39ACD5792B44EBFBC",
+    "source": "Magic Attack",
+    "translation": "Магическая атака"
+  },
+  {
+    "namespace": "",
+    "key": "3EB5BA6041FA59524749C6A34377B7CB",
+    "source": "Attacks Hero in the corresponding Sector.",
+    "translation": "Атакует героя в своём секторе."
+  },
+  {
+    "namespace": "",
+    "key": "7B1BD4F445251E64D333EAAF8C756439",
+    "source": "Attacks Hero in the corresponding Sector from any distance.",
+    "translation": "Атакует героя в своём секторе с любой дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "97E860F246B812C86612E19AC73F13BE",
+    "source": "Ranged Attack",
+    "translation": "Дальняя атака"
+  },
+  {
+    "namespace": "",
+    "key": "200832DA449186C298F47793E8DAA700",
+    "source": "Attacks Hero in the corresponding Sector.",
+    "translation": "Атакует героя в своём секторе."
+  },
+  {
+    "namespace": "",
+    "key": "4BFAF524448919EC84E47EA8C7F9D436",
+    "source": "Attacks Hero in the corresponding Sector from Ranged distance only.",
+    "translation": "Атакует героя в своём секторе только с дальней дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "87C877DB46CFAF9548DCFE8369C35816",
+    "source": "Ranged Attack",
+    "translation": "Дальняя атака"
+  },
+  {
+    "namespace": "",
+    "key": "950DED96473C9C596A8F5E96A21B782A",
+    "source": "Attacks Hero in the corresponding Sector.",
+    "translation": "Атакует героя в своём секторе."
+  },
+  {
+    "namespace": "",
+    "key": "879A57E4474AA9255BE6D1B9962E4B2C",
+    "source": "Attacks Hero in the corresponding Sector from Ranged distance only.",
+    "translation": "Атакует героя в своём секторе только с дальней дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "C7CACEA54742055F229DFDA4BFBEC7A0",
+    "source": "Ranged Attack/Negative Effect",
+    "translation": "Дальняя атака с негативным эффектом"
+  },
+  {
+    "namespace": "",
+    "key": "99CD81CB45D3D0AC66C4B5A9FB1D963A",
+    "source": "Attacks Hero in the corresponding Sector .",
+    "translation": "Атакует героя в своём секторе."
+  },
+  {
+    "namespace": "",
+    "key": "46FE0C8E47A32BDE46265489FDFB1A27",
+    "source": "Attacks Hero in the corresponding Sector dealing piercing (ignoring block) damage and applying a negative effect from Ranged distance only.",
+    "translation": "Атакует героя в своём секторе только с дальней дистанции, наносит пробивающий урон (игнорирует блок) и накладывает негативный эффект."
+  },
+  {
+    "namespace": "",
+    "key": "38F00761486862434B3208B0FF4EF1B8",
+    "source": "Ranged Piercing Attack",
+    "translation": "Дальняя пробивающая атака"
+  },
+  {
+    "namespace": "",
+    "key": "22F85F7E4B56D7DAF4DDD7B620CC6D2C",
+    "source": "Attacks Hero in the corresponding Sector.",
+    "translation": "Атакует героя в своём секторе."
+  },
+  {
+    "namespace": "",
+    "key": "4D6487B449E11F6DA059CF8FA0AF5BE0",
+    "source": "Attacks Hero in the corresponding Sector dealing piercing (ignoring block) damage from Ranged distance only.",
+    "translation": "Атакует героя в своём секторе только с дальней дистанции и наносит пробивающий урон (игнорирует блок)."
+  },
+  {
+    "namespace": "",
+    "key": "5D8731BE445FC53D151E248CD012D3C2",
+    "source": "Reload",
+    "translation": "Перезарядка"
+  },
+  {
+    "namespace": "",
+    "key": "5300EAD5474006F39E903085DD9FF6BF",
+    "source": "Prepares for an Attack from Ranged distance.",
+    "translation": "Готовится к атаке с дальней дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "2A6C856F4EEE72FEDF5564A9351B8AA3",
+    "source": "Rest",
+    "translation": "Отдых"
+  },
+  {
+    "namespace": "",
+    "key": "67C942B440B6DDB2FCBC6FB87BEF8748",
+    "source": "Doesn't want to be bothered.",
+    "translation": "Не хочет, чтобы его беспокоили."
+  },
+  {
+    "namespace": "",
+    "key": "15FDAA424E068F0AB658708B08A6D512",
+    "source": "Doesn't want to be bothered.",
+    "translation": "Не хочет, чтобы его беспокоили."
+  },
+  {
+    "namespace": "",
+    "key": "5BEDC65C4DA307A78E62898A5A0903C5",
+    "source": "Buff",
+    "translation": "Усиление"
+  },
+  {
+    "namespace": "",
+    "key": "8C94E1F34E007F828DBE618804F668AF",
+    "source": "Double Strength",
+    "translation": "Удвоение Силы"
+  },
+  {
+    "namespace": "",
+    "key": "787B2114464F0397B482A88D4F976456",
+    "source": "Increases its Strength by {bonus}.",
+    "translation": "Повышает свою Силу на {bonus}."
+  },
+  {
+    "namespace": "",
+    "key": "84D9B95A4AFDEA269A99F1A07EB8DD44",
+    "source": "Steal",
+    "translation": "Кража"
+  },
+  {
+    "namespace": "",
+    "key": "56331DF54DEBCD8BEDB1ED871F781C50",
+    "source": "Steals <img id=\"Gemstones\"/> from Hero in the corresponding Sector.",
+    "translation": "Крадёт <img id=\"Gemstones\"/> у героя в своём секторе."
+  },
+  {
+    "namespace": "",
+    "key": "632EE75142A780619EF0D6808370C700",
+    "source": "Frozen",
+    "translation": "Заморозка"
+  },
+  {
+    "namespace": "",
+    "key": "019E140B41C46A25AEB2BCA640CB48A9",
+    "source": "Does nothing this turn",
+    "translation": "Ничего не делает в этом ходу"
+  },
+  {
+    "namespace": "",
+    "key": "6D92AF8F4E9ADDDEF38F53B5D936743B",
+    "source": "Summon",
+    "translation": "Призыв"
+  },
+  {
+    "namespace": "",
+    "key": "25032806475655357581F7B2713D29C8",
+    "source": "Summons monsters",
+    "translation": "Призывает врагов"
+  },
+  {
+    "namespace": "",
+    "key": "48235B8A455780603CD95899761D7E4B",
+    "source": "Teleport",
+    "translation": "Телепортация"
+  },
+  {
+    "namespace": "",
+    "key": "6F513395470A5926272AC58E11B57514",
+    "source": "Teleports to a random sector",
+    "translation": "Телепортируется в случайный сектор"
+  },
+  {
+    "namespace": "",
+    "key": "4308F78B443C97ACE9F959A426F2D447",
+    "source": "Berserker",
+    "translation": "Берсерк"
+  },
+  {
+    "namespace": "",
+    "key": "DECAA6184F1C63F33637259C6DF8DE84",
+    "source": "Cleric",
+    "translation": "Жрец"
+  },
+  {
+    "namespace": "",
+    "key": "9128A4024D14DC8AA9FEECBAF8F58960",
+    "source": "Cleric",
+    "translation": "Жрец"
+  },
+  {
+    "namespace": "",
+    "key": "CB2771854970ECF8F0AD048E7E18E2A0",
+    "source": "Narrator",
+    "translation": "Рассказчик"
+  },
+  {
+    "namespace": "",
+    "key": "A7E3FF654A1CEE4A77342AA3AD001A15",
+    "source": "Sorceress",
+    "translation": "Чародейка"
+  },
+  {
+    "namespace": "",
+    "key": "724E084546632AD82E9A29A9E0DBF571",
+    "source": "Paladin",
+    "translation": "Паладин"
+  },
+  {
+    "namespace": "",
+    "key": "3936BB7A4B7348F6A77AE1ABBFD70A37",
+    "source": "Queen",
+    "translation": "Королева"
+  },
+  {
+    "namespace": "",
+    "key": "7A94262340357E6B69EB5A998127ABFB",
+    "source": "Ranger",
+    "translation": "Следопыт"
+  },
+  {
+    "namespace": "",
+    "key": "F5BC6D864F61FBA594C16E80E5EEDA89",
+    "source": "Berserker",
+    "translation": "Берсерк"
+  },
+  {
+    "namespace": "",
+    "key": "D585465C47B6BC0E248A7F8912073431",
+    "source": "Sorceress",
+    "translation": "Чародейка"
+  },
+  {
+    "namespace": "",
+    "key": "7C1FFD5F4FBF2A2D3A80A78706AEC403",
+    "source": "Paladin",
+    "translation": "Паладин"
+  },
+  {
+    "namespace": "",
+    "key": "6140CE9446F5EC5BA574698FEB7BB5B1",
+    "source": "Artifact: {name}",
+    "translation": "Артефакт: {name}"
+  },
+  {
+    "namespace": "",
+    "key": "591467AA044449AAADE199644B59AA5A",
+    "source": "Card: {name}",
+    "translation": "Карта: {name}"
+  },
+  {
+    "namespace": "",
+    "key": "A638396A4B8FE186A5E080A8E8536A61",
+    "source": "{amount} Gold",
+    "translation": "Золото: {amount}"
+  },
+  {
+    "namespace": "",
+    "key": "4233CA944C7B19EE20640C8EF83147CF",
+    "source": "Artifact",
+    "translation": "Артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "9BE1B74C4AF561FFBD0A19A159D951B2",
+    "source": "Card or Attribute",
+    "translation": "Карта или характеристика"
+  },
+  {
+    "namespace": "",
+    "key": "E0ECE9264F93665ED150F78E65194933",
+    "source": "[Buy {Name} for {Price} <img id=\"Gemstones\"/>]",
+    "translation": "[Покупка: {Name}. Цена: {Price} <img id=\"Gemstones\"/>]"
+  },
+  {
+    "namespace": "",
+    "key": "6BC3559249A3B0304894E0A9697F06EC",
+    "source": "[Buy {Name} for {Price} <img id=\"Gemstones\"/>]",
+    "translation": "[Покупка: {Name}. Цена: {Price} <img id=\"Gemstones\"/>]"
+  },
+  {
+    "namespace": "",
+    "key": "3E9E061E47DDB7E3EDBB30BDF8180FF5",
+    "source": "SOLD",
+    "translation": "ПРОДАНО"
+  },
+  {
+    "namespace": "",
+    "key": "43594C524342C58DD6E4F88BD4BDDF10",
+    "source": "Replace {Artifact} for {Price} <img id=\"Gemstones\"/>.",
+    "translation": "Заменить артефакт «{Artifact}» за {Price} <img id=\"Gemstones\"/>."
+  },
+  {
+    "namespace": "",
+    "key": "C5C632624F12254CE2A69E823F8C4786",
+    "source": "No {color}{Rarity} Artifact</> for swap",
+    "translation": "Нет артефакта для обмена (редкость: {color}{Rarity}</>)"
+  },
+  {
+    "namespace": "",
+    "key": "5F709AFF42D2790385B441980059080E",
+    "source": "[Take] {Name}",
+    "translation": "[Взять] {Name}"
+  },
+  {
+    "namespace": "",
+    "key": "CC4A07C140591B5C09CA6EBD383D2794",
+    "source": "TAKEN",
+    "translation": "ВЗЯТО"
+  },
+  {
+    "namespace": "",
+    "key": "274A1F87416FAA96800370A53101C30F",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "7B38D1C64966E9872FE7A0B771E03B05",
+    "source": "Shop",
+    "translation": "Лавка"
+  },
+  {
+    "namespace": "",
+    "key": "09D9E03B290548F8B4FDF166726309EB",
+    "source": "Summary",
+    "translation": "Итоги"
+  },
+  {
+    "namespace": "",
+    "key": "A172DD7EC11B40748FA3606D1732E850",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "BE28E26DD00345E28A4E6BA36F0CE3D6",
+    "source": "Finish the Prologue to unlock this game mode.",
+    "translation": "Завершите пролог, чтобы открыть этот режим игры."
+  },
+  {
+    "namespace": "",
+    "key": "47ACB9F34A55022DEF162B9DB9F803BC",
+    "source": "Finish the Prologue to unlock this game mode.",
+    "translation": "Завершите пролог, чтобы открыть этот режим игры."
+  },
+  {
+    "namespace": "",
+    "key": "0ED46C144F0D95E45EB16287C85D2750",
+    "source": "[{Title}] <rarity_rare>{potion_name}</> to get {num1} {attr1} and {num2} {attr2}.",
+    "translation": "[{Title}] <rarity_rare>{potion_name}</>, чтобы получить {num1} {attr1} и {num2} {attr2}."
+  },
+  {
+    "namespace": "",
+    "key": "922ABA3B47D2F0EB68BD7EB1F95A9CCA",
+    "source": "Multiple heroes can drink the same potion.",
+    "translation": "Одно и то же зелье могут выпить несколько героев."
+  },
+  {
+    "namespace": "",
+    "key": "ED159A4F4024F65EEAD280A41750C7EB",
+    "source": "Get random common artifact.",
+    "translation": "Получите случайный обычный артефакт."
+  },
+  {
+    "namespace": "",
+    "key": "F2D9ABC1469AAD78D88C3D892B7DA040",
+    "source": "If multiple heroes choose this, each receives a weaker version of the artifact.",
+    "translation": "Если этот вариант выберут несколько героев, каждый получит ослабленную версию артефакта."
+  },
+  {
+    "namespace": "",
+    "key": "ECA64BA14E0998E2E6A84D9A288716C4",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "7D784F77440127ED091FF9A6CA1D0E95",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "B0FFD9A64AF9BA0ADDB2B8978A739BE9",
+    "source": "Get random Artifact",
+    "translation": "Получить случайный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "ECA4D4EF45B2C3FFD11BF9A1CD16D26D",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "E23E2C9F45C170B2326598A335DE4E65",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "5E6AA2964ADC5D2DCF8E98BB759D9737",
+    "source": "Get random Artifact",
+    "translation": "Получить случайный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "9E193E9247CF048F908C46B377133C23",
+    "source": "Drink",
+    "translation": "Выпить"
+  },
+  {
+    "namespace": "",
+    "key": "521545BE422AA709CB6498A400889DC8",
+    "source": "Red Potion",
+    "translation": "Красное зелье"
+  },
+  {
+    "namespace": "",
+    "key": "913ABD4A47DD81D7C556BAB510C1A9FC",
+    "source": "Blue Potion",
+    "translation": "Синее зелье"
+  },
+  {
+    "namespace": "",
+    "key": "96B895DB47D5C7FA779B3AB67EE0C5F6",
+    "source": "Yellow Potion",
+    "translation": "Жёлтое зелье"
+  },
+  {
+    "namespace": "",
+    "key": "031D992E499546061C6077B8044071CB",
+    "source": "Green Potion",
+    "translation": "Зелёное зелье"
+  },
+  {
+    "namespace": "",
+    "key": "A7FED74E461EB0FD4D040FA60F20628C",
+    "source": "Alchemy Lab",
+    "translation": "Алхимическая лаборатория"
+  },
+  {
+    "namespace": "",
+    "key": "0DEB4F1048C77B405FA33998676A3FE7",
+    "source": "A cluttered workspace filled with glassware, pipes, and unstable mixtures, used to prepare potions.",
+    "translation": "Заваленное стеклянной посудой, трубками и нестабильными смесями рабочее место, где готовят зелья."
+  },
+  {
+    "namespace": "",
+    "key": "ED7DDCD84C0FD89F51D6B9A666E137FE",
+    "source": "Alchemy Lab",
+    "translation": "Алхимическая лаборатория"
+  },
+  {
+    "namespace": "",
+    "key": "134B434D472DE48307C6AAADE7A3D329",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "0BC4300A42556D41F6DA63B7EF837212",
+    "source": "Take",
+    "translation": "Взять"
+  },
+  {
+    "namespace": "",
+    "key": "80FD522543A857B014E6228CF4F426B4",
+    "source": "Armor Rack",
+    "translation": "Стойка с доспехами"
+  },
+  {
+    "namespace": "",
+    "key": "5BBE211C4294E17270543389337928F0",
+    "source": "Take",
+    "translation": "Взять"
+  },
+  {
+    "namespace": "",
+    "key": "70457CD0491E050A4492B08D4903987E",
+    "source": "Weapon Rack",
+    "translation": "Стойка с оружием"
+  },
+  {
+    "namespace": "",
+    "key": "A18541974681A8D72586968BD476567E",
+    "source": "Armory",
+    "translation": "Оружейная"
+  },
+  {
+    "namespace": "",
+    "key": "CA73AB37408A451407F8ABB320E8E746",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "6D5CFD5A466232C61390948FD446036B",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "5058BA07485CFBA88C6AF69073EC10C7",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "2DAE7B354DC29668BC693C9AC9FA6F64",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "069D34824B4D6BB95AAD1391BB7DB74A",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "FC47DF5249F7C749CC0053803DBCCE0F",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "29112D0C49C5FA67266A2A8AA60C155E",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "A934B2D64698EED53E01E5A069D6C4B0",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "40D6F7CD4150B92F5DFC4C8DAF5DE5B5",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "EE605712418BC83BD9952E9B1DC29027",
+    "source": "Dig up",
+    "translation": "Раскопать"
+  },
+  {
+    "namespace": "",
+    "key": "1A4E729F4F80483A1ADB88841690D2E8",
+    "source": "Coal Pile",
+    "translation": "Угольная куча"
+  },
+  {
+    "namespace": "",
+    "key": "D75D53E6470FBC08BD5DC5896C3808C5",
+    "source": "Something shiny within",
+    "translation": "Внутри что-то блестит"
+  },
+  {
+    "namespace": "",
+    "key": "034B7CE34CD5824C5421D2B47D7EE37E",
+    "source": "Coal Room",
+    "translation": "Угольная комната"
+  },
+  {
+    "namespace": "",
+    "key": "D3C2A2DC43BCC7E5A25A7FA90B7C4B4A",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "C3B10F824616BD2EF14B4C98C5205621",
+    "source": "Boss Battle",
+    "translation": "Битва с боссом"
+  },
+  {
+    "namespace": "",
+    "key": "6755616B43638DEFE78230A302C676F6",
+    "source": "Boss Battle",
+    "translation": "Битва с боссом"
+  },
+  {
+    "namespace": "",
+    "key": "7F43A48E46EF246B347F32AA18B7B49E",
+    "source": "Courtyard",
+    "translation": "Внутренний двор"
+  },
+  {
+    "namespace": "",
+    "key": "EC3B07C94934491A9901D8A2BB788415",
+    "source": "Leave Manor",
+    "translation": "Покинуть усадьбу"
+  },
+  {
+    "namespace": "",
+    "key": "DF91C63043738960CD681B929E23AE57",
+    "source": "Search",
+    "translation": "Обыскать"
+  },
+  {
+    "namespace": "",
+    "key": "0E8D054B4BB9920961987E8C919E18F7",
+    "source": "the bed",
+    "translation": "постель"
+  },
+  {
+    "namespace": "",
+    "key": "673036F84CC6F34F27C9B4811AFDD29A",
+    "source": "Stay",
+    "translation": "Задержаться"
+  },
+  {
+    "namespace": "",
+    "key": "18B71904476F770630C05B82FEE0E62B",
+    "source": "a while",
+    "translation": "ненадолго"
+  },
+  {
+    "namespace": "",
+    "key": "D5329C1041CD13F9EBC4C5AB456B8E5F",
+    "source": "Bedrolls",
+    "translation": "Спальники"
+  },
+  {
+    "namespace": "",
+    "key": "6801E8FD4432526F8B9CFAA0B2FF3EC2",
+    "source": "The threadbare bedroll must have been uncomfortable even before all the bloodstains and rips. And yet, it conceals a tiny pouch of gold.",
+    "translation": "На этом истёртом спальнике, должно быть, было неудобно спать ещё до всех прорех и пятен крови. И всё же в нём спрятан маленький кошель с золотом."
+  },
+  {
+    "namespace": "",
+    "key": "702125D8451F7ED01A7DF9B471ADA2CB",
+    "source": "Table",
+    "translation": "Стол"
+  },
+  {
+    "namespace": "",
+    "key": "8189AD4F4FA3DF0AB073D1A829BCE30E",
+    "source": "Cracked cups, cobwebs, and mould are what’s for dinner. But the bench is inviting. Sit and catch a breath. Just don’t chew on that bread.",
+    "translation": "На ужин треснувшие чашки, паутина и плесень. Зато скамья так и манит. Присядьте и переведите дух. Только хлеб не ешьте."
+  },
+  {
+    "namespace": "",
+    "key": "74C6B42E41532E94FE09D28E163C166B",
+    "source": "Dormitory",
+    "translation": "Спальня"
+  },
+  {
+    "namespace": "",
+    "key": "50EFC2584409ECB290A6E6A65234F2F0",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "CFDBDC694EA8FD74DC2FF49817F169EA",
+    "source": "Manor Entrance",
+    "translation": "Вход в усадьбу"
+  },
+  {
+    "namespace": "",
+    "key": "2D920CD34BD1F1DAC807A89C999C49D5",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "5C1F256E4E7CD4300DCAE0835A7C2CA5",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "8C66B444465CB19EE953409825D25AB1",
+    "source": "Battle",
+    "translation": "Битва"
+  },
+  {
+    "namespace": "",
+    "key": "7B8C30C54BCDA02A45A65D9D8C2CE5E1",
+    "source": "Lie",
+    "translation": "Лечь"
+  },
+  {
+    "namespace": "",
+    "key": "F5BAA06346F3F9EEAF8091B9A4235820",
+    "source": "in bed",
+    "translation": "в постель"
+  },
+  {
+    "namespace": "",
+    "key": "FEE7F1D74C4ADCC0133DE99F8B67ACF6",
+    "source": "Rest",
+    "translation": "Отдохнуть"
+  },
+  {
+    "namespace": "",
+    "key": "C53D6317403CF316C7F7A9AE298670B5",
+    "source": "for a moment",
+    "translation": "немного"
+  },
+  {
+    "namespace": "",
+    "key": "A7CD52AB4FDD9EB0BA8405A004210422",
+    "source": "Heal",
+    "translation": "Исцелиться"
+  },
+  {
+    "namespace": "",
+    "key": "F540B9BC424BB505071CE8B20C4CC4D0",
+    "source": "with medicine (100 gemstones)",
+    "translation": "лекарствами (100 самоцветов)"
+  },
+  {
+    "namespace": "",
+    "key": "E2DBDA134F201BB15B98FE8B9C73D063",
+    "source": "Healer",
+    "translation": "Целитель"
+  },
+  {
+    "namespace": "",
+    "key": "78F8EF3E46013B8AC690EB8BD3E19098",
+    "source": "The Healer waits in silence, yet his eyes speak volumes about prices to be paid.",
+    "translation": "Целитель ждёт молча, но его глаза красноречиво говорят о цене, которую придётся заплатить."
+  },
+  {
+    "namespace": "",
+    "key": "BF5EC8A04A899E48393178AE43819CE8",
+    "source": "Healer",
+    "translation": "Целитель"
+  },
+  {
+    "namespace": "",
+    "key": "AE4905A84B94C43776BF0287B9F0AF9A",
+    "source": "Healer",
+    "translation": "Целитель"
+  },
+  {
+    "namespace": "",
+    "key": "D654FC6147F60414C9F857B17B4B6FB2",
+    "source": "Dragon Trace",
+    "translation": "След дракона"
+  },
+  {
+    "namespace": "",
+    "key": "549DD5A848BC792336701AA498CC0AED",
+    "source": "Holding Chamber",
+    "translation": "Камера содержания"
+  },
+  {
+    "namespace": "",
+    "key": "D188BFEB4E979B4C8B0C879F1C435730",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "1779353E44819FFAD2BB97830FAD4714",
+    "source": "Elite Battle",
+    "translation": "Битва с элитой"
+  },
+  {
+    "namespace": "",
+    "key": "C6533255432FBD8E3B70B2BC472661FC",
+    "source": "Elite Battle",
+    "translation": "Битва с элитой"
+  },
+  {
+    "namespace": "",
+    "key": "466C7D4244BDB72156BD48A4EA38C636",
+    "source": "Steal",
+    "translation": "Украсть"
+  },
+  {
+    "namespace": "",
+    "key": "16C7010042F7163DD01BC1B2DE66FFAD",
+    "source": "from Snatchlings",
+    "translation": "у Хватунов"
+  },
+  {
+    "namespace": "",
+    "key": "C461AE84410A1C700FEBBBA8060868BA",
+    "source": "Set those poor creatures free.",
+    "translation": "Выпустите этих бедных созданий на свободу."
+  },
+  {
+    "namespace": "",
+    "key": "00FF10E8410C75E70C06CBB93DD023C4",
+    "source": "Free",
+    "translation": "Освободить"
+  },
+  {
+    "namespace": "",
+    "key": "8FA1680D4CC4B2D480ED9682E072FBA8",
+    "source": "Snatchlings from prison.",
+    "translation": "Хватунов из тюрьмы."
+  },
+  {
+    "namespace": "",
+    "key": "AD002BFD44271F5E1E226AB2888E0D60",
+    "source": "Holding Cell",
+    "translation": "Тюремная камера"
+  },
+  {
+    "namespace": "",
+    "key": "81801E3648B3ACB7CEB2C6B90C398ACD",
+    "source": "Prison",
+    "translation": "Тюрьма"
+  },
+  {
+    "namespace": "",
+    "key": "81B220264B195D0E4D2A5D864F74B2CA",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "171A2B264E356B0F68514480A55F83FC",
+    "source": "Gain a mysterious card from the ancient book.",
+    "translation": "Получите загадочную карту из древней книги."
+  },
+  {
+    "namespace": "",
+    "key": "10386496478B12FB98F6DC9F93A3700D",
+    "source": "Read",
+    "translation": "Прочитать"
+  },
+  {
+    "namespace": "",
+    "key": "1A4FC144410F65BC4D381AB01267B34B",
+    "source": "the ancient book",
+    "translation": "древнюю книгу"
+  },
+  {
+    "namespace": "",
+    "key": "B087D8D142C067B8F1B0E5AFD01CE766",
+    "source": "Ancient Book",
+    "translation": "Древняя книга"
+  },
+  {
+    "namespace": "",
+    "key": "9A8F842646EFD70606FD1C82ECBADA5F",
+    "source": "An ancient book rests on a pedestal, pages humming with power.",
+    "translation": "На пьедестале покоится древняя книга, её страницы гудят от переполняющей их силы."
+  },
+  {
+    "namespace": "",
+    "key": "84F4B36F4DA9DFFAE46F5EBE011DBD83",
+    "source": "Scriptorium Showroom",
+    "translation": "Выставочный зал скриптория"
+  },
+  {
+    "namespace": "",
+    "key": "5E8DA59B4F36D99C5E26A39590A7B10F",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "B573B0AE471DFFBD43451BBA73407E50",
+    "source": "Classless",
+    "translation": "Внеклассовые"
+  },
+  {
+    "namespace": "",
+    "key": "2881B32D481B79120E423A87CF409B7C",
+    "source": "Card Shop",
+    "translation": "Карточная лавка"
+  },
+  {
+    "namespace": "",
+    "key": "FA15BC17494773DC7E976F8F3E78EB7E",
+    "source": "Card Shop",
+    "translation": "Карточная лавка"
+  },
+  {
+    "namespace": "",
+    "key": "E84CB6BD457128117E4602A200E03C9D",
+    "source": "Shop",
+    "translation": "Лавка"
+  },
+  {
+    "namespace": "",
+    "key": "1BB7D387475E1ACC2D2868B655B89407",
+    "source": "Shop",
+    "translation": "Лавка"
+  },
+  {
+    "namespace": "",
+    "key": "F9A796F44B9BFB354644F0B1632408E2",
+    "source": "Split",
+    "translation": "Разделить"
+  },
+  {
+    "namespace": "",
+    "key": "57B9E8C2458725A90F40548B378D1357",
+    "source": "the treasure",
+    "translation": "сокровища"
+  },
+  {
+    "namespace": "",
+    "key": "2C4654834C1969F0EB96E9BBEFE9E801",
+    "source": "Search",
+    "translation": "Искать"
+  },
+  {
+    "namespace": "",
+    "key": "577FB91B437E0DEDB6B4A6AB394081E5",
+    "source": "for hidden riches",
+    "translation": "скрытые богатства"
+  },
+  {
+    "namespace": "",
+    "key": "41325297417536774DD672852527875D",
+    "source": "Vault Doors",
+    "translation": "Двери хранилища"
+  },
+  {
+    "namespace": "",
+    "key": "87C82B624024AA9F4B1E1C8BAD4634A1",
+    "source": "Coins and trinkets spill from chests and sacks. Who knows what lies yet deeper?",
+    "translation": "Из сундуков и мешков высыпаются монеты и безделушки. Кто знает, что скрыто глубже?"
+  },
+  {
+    "namespace": "",
+    "key": "B5ABF14C4BC48A68AD016991340F03CC",
+    "source": "Take",
+    "translation": "Взять"
+  },
+  {
+    "namespace": "",
+    "key": "AD46CD5C44AD9B7E4763C7A6739177F9",
+    "source": "Ancient Remains",
+    "translation": "Древние останки"
+  },
+  {
+    "namespace": "",
+    "key": "175E0DFA45FCD5F4E2FE6CBF9322A028",
+    "source": "The corpse grips its treasures lightly, as if offering them to those in need.",
+    "translation": "Мертвец едва сжимает сокровища в руках, словно предлагая их нуждающимся."
+  },
+  {
+    "namespace": "",
+    "key": "DB8FCA8E4F42CD7FF40BE8BBC87C7F0A",
+    "source": "Vault",
+    "translation": "Хранилище"
+  },
+  {
+    "namespace": "",
+    "key": "613D17AF4C40D7D86CDD9DAE2D29B3C9",
+    "source": "Vault",
+    "translation": "Хранилище"
+  },
+  {
+    "namespace": "",
+    "key": "56E3684447FC5557BD2328BE217E2275",
+    "source": "Courtyard",
+    "translation": "Внутренний двор"
+  },
+  {
+    "namespace": "",
+    "key": "65AFD5A24A8E803AA44F4D9885942188",
+    "source": "Leave Manor",
+    "translation": "Покинуть усадьбу"
+  },
+  {
+    "namespace": "",
+    "key": "6F982E8F4DA5BEA52499E690B3BF8E7A",
+    "source": "Gain a mysterious card from the war room.",
+    "translation": "Получите загадочную карту в военном зале."
+  },
+  {
+    "namespace": "",
+    "key": "42C3FA134DF401F54CFC01B0D77DA863",
+    "source": "Study",
+    "translation": "Изучить"
+  },
+  {
+    "namespace": "",
+    "key": "194A384F4299F8C88DDBB9B7D49CF0CA",
+    "source": "the plans",
+    "translation": "планы"
+  },
+  {
+    "namespace": "",
+    "key": "38FD473042A012B52046E0B0BBBDE36E",
+    "source": "War Plans",
+    "translation": "Военные планы"
+  },
+  {
+    "namespace": "",
+    "key": "1DF22CAB401E756368283B88E8F56972",
+    "source": "Reading them can teach you something useful.",
+    "translation": "Изучив их, можно узнать что-нибудь полезное."
+  },
+  {
+    "namespace": "",
+    "key": "A8E3B74D4B34D00260B0F8A4200AFE2C",
+    "source": "War Room",
+    "translation": "Военный зал"
+  },
+  {
+    "namespace": "",
+    "key": "1AC217C347880E2C14D11F90F30CC65E",
+    "source": "Event",
+    "translation": "Событие"
+  },
+  {
+    "namespace": "",
+    "key": "C6CEC90942B477207B89C59D5C186A23",
+    "source": "Not enough <img id=\"Heart\"/>.",
+    "translation": "Недостаточно <img id=\"Heart\"/>."
+  },
+  {
+    "namespace": "",
+    "key": "73CEA01E435BA9222FB77D962FB01FF0",
+    "source": "Get a random card.",
+    "translation": "Получите случайную карту."
+  },
+  {
+    "namespace": "",
+    "key": "EB5A56774173409A93676CA0A21D34C6",
+    "source": "Nothing happens.",
+    "translation": "Ничего не происходит."
+  },
+  {
+    "namespace": "",
+    "key": "D1B055624D82704426023B815C323C1C",
+    "source": "Play Cutscene",
+    "translation": "Посмотреть сцену"
+  },
+  {
+    "namespace": "",
+    "key": "378DCA9947B7EB31099B4EAACAB4B23A",
+    "source": "Get",
+    "translation": "Получить"
+  },
+  {
+    "namespace": "",
+    "key": "0795B5CF45625A11ABF918B3C9C3B087",
+    "source": "Take",
+    "translation": "Взять"
+  },
+  {
+    "namespace": "",
+    "key": "C488F7774AF50F675889D4A96EF8E3EF",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "F602B6DB4C1369C9B85185BE57FD3416",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "DBD7085F4E2B800391F73EB8209E89EF",
+    "source": "Get random Artifact",
+    "translation": "Получить случайный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "F22E162641157F4E9E93029E33324A8F",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "E328A54A44A86D926F1FAAB87AB9AAD2",
+    "source": "Get random Artifact",
+    "translation": "Получить случайный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "8832A4D8493D43CAEA347AA09914E83A",
+    "source": "The statue’s hollow gaze offers no blessing, only hunger. To pass, heroes must surrender part of their {attribute}.",
+    "translation": "В пустом взгляде статуи нет благословения, только голод. Чтобы пройти, герои должны пожертвовать частью характеристики «{attribute}»."
+  },
+  {
+    "namespace": "",
+    "key": "288A378F4A4E55241ACADB84755F512C",
+    "source": "A weathered statue stands with hollow eyes and open hands. Those who kneel in prayer may find their {attribute} empowered.",
+    "translation": "Изваяние с пустыми глазницами и раскрытыми ладонями обветшало от времени. Те, кто преклонит колени в молитве, могут усилить характеристику «{attribute}»."
+  },
+  {
+    "namespace": "",
+    "key": "E92D48F54DD0381896F403902A301CB8",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "969A8E434EC6A759C74462B0A3FC0D3A",
+    "source": "Get random Artifact",
+    "translation": "Получить случайный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "AD72B94E41554CA82243109A4F5B1D5E",
+    "source": "The stone figure radiates the aspect of {Attribute}, its presence steady and unyielding. Those who kneel in prayer may receive its blessing.",
+    "translation": "Непоколебимая каменная фигура воплощает характеристику «{Attribute}». Те, кто преклонит колени в молитве, могут получить её благословение."
+  },
+  {
+    "namespace": "",
+    "key": "48BE62D14E9B0098519F8691A5493446",
+    "source": "{Title} of {Atttribute}",
+    "translation": "{Title}: {Atttribute}"
+  },
+  {
+    "namespace": "",
+    "key": "2AC6A4AD43362B1BA114869C9ABA03E4",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "6D8D772B4FCF18D280DBB0A951D439CA",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "53B1FD0147E0EBCEA72067971DC04522",
+    "source": "Get random Artifact",
+    "translation": "Получить случайный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "616B7B58400340BD1C920EA69EDA4265",
+    "source": " Monument of Proving",
+    "translation": " Монумент испытаний"
+  },
+  {
+    "namespace": "",
+    "key": "E0897F404885DA5ACDA0889ADF8ADF74",
+    "source": "Bounty Board",
+    "translation": "Доска поручений"
+  },
+  {
+    "namespace": "",
+    "key": "75B24D0641E5CB2005A461BF92813B02",
+    "source": "Cards",
+    "translation": "Карты"
+  },
+  {
+    "namespace": "",
+    "key": "7684C55446F82BF8EB0DB3B61751414A",
+    "source": "Shop",
+    "translation": "Лавка"
+  },
+  {
+    "namespace": "",
+    "key": "56BD2B8E4BDB7AF6BA6CDA8892ED43EB",
+    "source": "Snatchback",
+    "translation": "Хватун-торгаш"
+  },
+  {
+    "namespace": "",
+    "key": "6EAE059142D76B83D8DAB0AF09D6D0AF",
+    "source": "Soul Vault",
+    "translation": "Хранилище душ"
+  },
+  {
+    "namespace": "",
+    "key": "F73C05694A0497FDE60535ABB6D45052",
+    "source": "Receive {Amount} <img id=\"Gemstones\"/>.",
+    "translation": "Получите {Amount} <img id=\"Gemstones\"/>."
+  },
+  {
+    "namespace": "",
+    "key": "FA5E8BC247D2565F2F6722ADBE487BBC",
+    "source": "Take Artifact",
+    "translation": "Взять артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "8AC4823E43CCB2A48F4638A1C26BBD9D",
+    "source": "Get random Artifact",
+    "translation": "Получить случайный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "A8B808D64F3DF84F5D2931B337854A00",
+    "source": "Chance: {x}%",
+    "translation": "Шанс: {x}%"
+  },
+  {
+    "namespace": "",
+    "key": "A181F8324D56E1ECB869B4B77B25BA42",
+    "source": "Place a Bet:\r\n{Bet}",
+    "translation": "Сделайте ставку:\n{Bet}"
+  },
+  {
+    "namespace": "",
+    "key": "D6F468474BAA1A2B892CF68B172BDB2C",
+    "source": "[no influence]",
+    "translation": "[нет эффекта]"
+  },
+  {
+    "namespace": "",
+    "key": "416429544621FA60DA73BFBEF24242CC",
+    "source": "Place this Bet for current Battle.",
+    "translation": "Сделайте эту ставку на текущий бой."
+  },
+  {
+    "namespace": "",
+    "key": "F9D24AA24DCE9269CA3A248DB087B24D",
+    "source": "Save this Bet for future Battles.",
+    "translation": "Сохраните эту ставку для будущих боёв."
+  },
+  {
+    "namespace": "",
+    "key": "3B1C7573407836666F147280EFE1B152",
+    "source": "Hero's Death Bet",
+    "translation": "Ставка на гибель героя"
+  },
+  {
+    "namespace": "",
+    "key": "E33C94884F3834EA22254A9E2102BA67",
+    "source": "A Hero shall die during this Battle. Reward: 500 Gemstones.",
+    "translation": "В этом бою погибнет герой. Награда: 500 самоцветов."
+  },
+  {
+    "namespace": "",
+    "key": "D8B90F25471C4E1EB606D8821C0F587E",
+    "source": "No Damage Bet",
+    "translation": "Ставка на бой без урона"
+  },
+  {
+    "namespace": "",
+    "key": "72101B8542C638279E09A6A1BA5EFEDA",
+    "source": "Place a Bet no hero will take damage during this Battle. Reward: 250 Gemstones.",
+    "translation": "Сделайте ставку на то, что ни один герой не получит урон в этом бою. Награда: 250 самоцветов."
+  },
+  {
+    "namespace": "",
+    "key": "84A28C5440ABBEEB5C9A25B1AEF3378B",
+    "source": "Place Bet",
+    "translation": "Сделать ставку"
+  },
+  {
+    "namespace": "",
+    "key": "D25805234BD153F4B00F728681BE96D8",
+    "source": "Refuse Bet",
+    "translation": "Отказаться от ставки"
+  },
+  {
+    "namespace": "",
+    "key": "77DE83DB4529708CC0E1499E0A5AC28B",
+    "source": "Round Limit Bet",
+    "translation": "Ставка на быструю победу"
+  },
+  {
+    "namespace": "",
+    "key": "02F9F22140C2BDB896CA7B85F275B97B",
+    "source": "Heroes shall win this Battle within 3 rounds. Reward: 350 Gemstones.",
+    "translation": "Герои победят в этом бою за 3 раунда. Награда: 350 самоцветов."
+  },
+  {
+    "namespace": "",
+    "key": "12C980474B27C6F69AD1FDA4CB3EDEF4",
+    "source": "Target hero plays the next card once more.",
+    "translation": "Выбранный герой разыграет следующую карту ещё раз."
+  },
+  {
+    "namespace": "",
+    "key": "6DBF3A774409A5AB0C931397CBE4AA67",
+    "source": "Select Attribute",
+    "translation": "Выберите характеристику"
+  },
+  {
+    "namespace": "",
+    "key": "5C1C5E20407EBF6FDDD252881F5BFF3D",
+    "source": "Select attribute",
+    "translation": "Выберите характеристику"
+  },
+  {
+    "namespace": "",
+    "key": "A3E19D2646E6F569D65F5D91939C4ED1",
+    "source": "{Current} or {New}",
+    "translation": "{Current} или {New}"
+  },
+  {
+    "namespace": "",
+    "key": "F02BDC094B689F6C8881BA9D9EBA421E",
+    "source": "deal {damage} <card_damage>damage</>{operation}",
+    "translation": "нанесите {damage} <card_damage>урона</>{operation}"
+  },
+  {
+    "namespace": "",
+    "key": "1B4C99EE4BE3BA0702293E8334876388",
+    "source": "Deal {damage} <card_damage>damage</>{operation}",
+    "translation": "Нанесите {damage} <card_damage>урона</>{operation}"
+  },
+  {
+    "namespace": "",
+    "key": "FD9C9C1E4D2208D667054AAB21E16AC9",
+    "source": "Choose a Card",
+    "translation": "Выберите карту"
+  },
+  {
+    "namespace": "",
+    "key": "6F7BA50E4583627FE69A2FBD6395BF66",
+    "source": "Choose a Card",
+    "translation": "Выберите карту"
+  },
+  {
+    "namespace": "",
+    "key": "F43F70E64E8FF5C3E199E8A2F30C24D5",
+    "source": "Choose a Card",
+    "translation": "Выберите карту"
+  },
+  {
+    "namespace": "",
+    "key": "70B287814CA9A2BED233BBAD3906F62D",
+    "source": "discarded",
+    "translation": "сброс"
+  },
+  {
+    "namespace": "",
+    "key": "B4C008C14DBFCD75845ABA9790F0BE50",
+    "source": "exhauseted",
+    "translation": "истощение"
+  },
+  {
+    "namespace": "",
+    "key": "7B30BC0148C1B611D84A7FB7C70FC05E",
+    "source": "cards",
+    "translation": "карты"
+  },
+  {
+    "namespace": "",
+    "key": "4F579BD145BDABA0C7E13CBD25CD4612",
+    "source": "card",
+    "translation": "карта"
+  },
+  {
+    "namespace": "",
+    "key": "AF43759C46916C3CFB6BE9A005DB604A",
+    "source": "Selected {card} will be {cost}.",
+    "translation": "Выбор: {card}. Действие: {cost}."
+  },
+  {
+    "namespace": "",
+    "key": "16B776BE4465453107CAEF90327B7414",
+    "source": "Card selected",
+    "translation": "Карта выбрана"
+  },
+  {
+    "namespace": "",
+    "key": "F09C78D744C006BDD75E2C80EBA46FCB",
+    "source": "{X} cards selected",
+    "translation": "Выбрано карт: {X}"
+  },
+  {
+    "namespace": "",
+    "key": "46D921274BF812B763E89FBFB2ED91B8",
+    "source": "Select at least {X} card",
+    "translation": "Выберите карты (не менее {X})"
+  },
+  {
+    "namespace": "",
+    "key": "B32C558742D3DAC6DE7C7991AE46A3BF",
+    "source": "Select at least {X} cards",
+    "translation": "Выберите карты (не менее {X})"
+  },
+  {
+    "namespace": "",
+    "key": "4AEEA2124C6B68AB7AFFDFB8EA286E11",
+    "source": "Select {X} cards",
+    "translation": "Выберите карты: {X}"
+  },
+  {
+    "namespace": "",
+    "key": "5848DC2B45EDD526623770B393807720",
+    "source": "Select a card",
+    "translation": "Выберите карту"
+  },
+  {
+    "namespace": "",
+    "key": "023AB35540A7863C392BE49FEDF8F554",
+    "source": "Select at least {X} more card",
+    "translation": "Выберите ещё карты (не менее {X})"
+  },
+  {
+    "namespace": "",
+    "key": "FEDD8CFA4E1E6EB63BF01F90C0B23CDD",
+    "source": "Select at least {X} more cards",
+    "translation": "Выберите ещё карты (не менее {X})"
+  },
+  {
+    "namespace": "",
+    "key": "EF3B75164240DDBA6B3C2ABBC174A922",
+    "source": "Select {X} more card",
+    "translation": "Выберите ещё карты: {X}"
+  },
+  {
+    "namespace": "",
+    "key": "53E0B0684030C3429D7E80A10B5A3664",
+    "source": "Select {X} more cards",
+    "translation": "Выберите ещё карты: {X}"
+  },
+  {
+    "namespace": "",
+    "key": "4E3A6F51483818905DCF6BA58AEBE200",
+    "source": "{count} cards.",
+    "translation": "карты ({count})."
+  },
+  {
+    "namespace": "",
+    "key": "A80F97064A43AB8B9D4DCF96482780A9",
+    "source": "a card.",
+    "translation": "карту."
+  },
+  {
+    "namespace": "",
+    "key": "EE0E962E4D1098F2C6C270ACDDA73CA3",
+    "source": "Discard",
+    "translation": "Сбросить"
+  },
+  {
+    "namespace": "",
+    "key": "5652764644F870C53F9FD2A69CFAC754",
+    "source": "Exhaust",
+    "translation": "Истощить"
+  },
+  {
+    "namespace": "",
+    "key": "24FA48B645F89D3F6A16C08A88AF2663",
+    "source": "{InfluenceDescription}\r\nIf there are none, remove this effect.",
+    "translation": "{InfluenceDescription}\nЕсли их нет, снимите этот эффект."
+  },
+  {
+    "namespace": "",
+    "key": "C9F9704C45F2C0CAF96E6BA58A2045EF",
+    "source": "Exhaust {CardsToExhaustCount} cards.",
+    "translation": "Истощите карты: {CardsToExhaustCount}."
+  },
+  {
+    "namespace": "",
+    "key": "48953F7442D928788AF184A57140E7FE",
+    "source": "cards",
+    "translation": "карты"
+  },
+  {
+    "namespace": "",
+    "key": "9276306B41E59CF7B64B16A5B32B8D42",
+    "source": "card",
+    "translation": "карта"
+  },
+  {
+    "namespace": "",
+    "key": "C2038F0F42D90DBF18A428B48F912EE6",
+    "source": "Harald",
+    "translation": "Харальд"
+  },
+  {
+    "namespace": "",
+    "key": "BA1D9F1A44B6C0D7D56BC4B150CA1272",
+    "source": "Dagrun",
+    "translation": "Дагрун"
+  },
+  {
+    "namespace": "",
+    "key": "957E572E4AFD56B8C113CF96C95F740C",
+    "source": "Styrmir",
+    "translation": "Стюрмир"
+  },
+  {
+    "namespace": "",
+    "key": "625CEE594AED7B33398211BC5379D19E",
+    "source": "Relentless <card_damage>melee</> fighter who thrives on aggression.",
+    "translation": "Неутомимый боец <card_damage>ближнего боя</>, чья сила — в натиске."
+  },
+  {
+    "namespace": "",
+    "key": "4DFF76A449C06C961EBFA0B6A22A410A",
+    "source": "Builds up <card_rage>Rage</> when fighting, which can be spent to deal even more <card_damage>damage</>.",
+    "translation": "В бою накапливает <card_rage>Ярость</>, которую может потратить, чтобы нанести ещё больше <card_damage>урона</>."
+  },
+  {
+    "namespace": "",
+    "key": "1123D85347ADF2D2963F0F830A131002",
+    "source": "Once <card_rage>raging</>, he has to attack someone. Unspent <card_rage>Rage</> at the end of the turn <card_damage>damages other party members</>.",
+    "translation": "Впав в <card_rage>ярость</>, он обязан кого-нибудь атаковать. Неизрасходованная к концу хода <card_rage>Ярость</> <card_damage>наносит урон остальным участникам отряда</>."
+  },
+  {
+    "namespace": "",
+    "key": "15198A4448535904E2F5E2AB029807C9",
+    "source": "Berserker",
+    "translation": "Берсерк"
+  },
+  {
+    "namespace": "",
+    "key": "53C996624A98829676A0B491EFB702DD",
+    "source": "A brutal warrior who deals immense melee damage, growing stronger the longer he fights. His attacks generate Rage, which can be released when he kills a monster, but any Rage left at the end of the round erupts against his allies.",
+    "translation": "Свирепый воин, который наносит огромный урон в ближнем бою и становится тем сильнее, чем дольше сражается. Атаки накапливают Ярость, которую он может сбросить, убив врага. Если к концу раунда Ярость остаётся, он обрушивает её на союзников."
+  },
+  {
+    "namespace": "",
+    "key": "AB9B5E0F414973BF5095AF93FE27DFA8",
+    "source": "Aurelius",
+    "translation": "Аврелий"
+  },
+  {
+    "namespace": "",
+    "key": "1F15627746BADED66134F99541F8A16F",
+    "source": "Lucius",
+    "translation": "Луций"
+  },
+  {
+    "namespace": "",
+    "key": "C757A6C7453E373100287BB7102C48A3",
+    "source": "Benedict",
+    "translation": "Бенедикт"
+  },
+  {
+    "namespace": "",
+    "key": "39E30F2F4180ABD39243BB899B9C2C2E",
+    "source": "<card_card>Heals</> and <card_mana>saves</> lives for a living.",
+    "translation": "<card_card>Исцеляет</> и <card_mana>спасает</> жизни — таков его труд."
+  },
+  {
+    "namespace": "",
+    "key": "6B67F612434DB139BDF90C91BC711B80",
+    "source": "In a pinch, can <card_damage>join the fight</> and hold his own.",
+    "translation": "При необходимости может <card_damage>вступить в бой</> и постоять за себя."
+  },
+  {
+    "namespace": "",
+    "key": "F9C8488E4662A1274938C98A5F77940C",
+    "source": "Can <card_card>resurrect</> fallen friends to turn the tide of battle.",
+    "translation": "Может <card_card>воскрешать</> павших друзей, чтобы переломить ход битвы."
+  },
+  {
+    "namespace": "",
+    "key": "4B4E020F42EF56BC27F422A57E2B611F",
+    "source": "Cleric",
+    "translation": "Жрец"
+  },
+  {
+    "namespace": "",
+    "key": "5D529BB744FF0FCBFAD054BBC852C8CD",
+    "source": "A devoted healer who focuses on protection, restoration, and support for the team. By playing certain cards he gathers Providence points, and once enough are collected he is granted a choice of powerful one-time miracles.",
+    "translation": "Преданный своему делу целитель, который защищает, исцеляет и поддерживает отряд. Разыгрывая определённые карты, он накапливает очки Провидения. Набрав достаточно очков, он получает на выбор могущественные чудеса, каждое из которых можно использовать один раз."
+  },
+  {
+    "namespace": "",
+    "key": "D618718A4D6678157F115CB9A9709A4C",
+    "source": "<card_card>Heals</> and <card_mana>saves</> lives for a living.",
+    "translation": "<card_card>Исцеляет</> и <card_mana>спасает</> жизни — таков его труд."
+  },
+  {
+    "namespace": "",
+    "key": "FE30F5244A3C61A2F2C8149F4406B4AF",
+    "source": "In a pinch, can <card_damage>join the fight</> and hold his own.",
+    "translation": "При необходимости может <card_damage>вступить в бой</> и постоять за себя."
+  },
+  {
+    "namespace": "",
+    "key": "2E623A284C303F6F3D7CF88F57C7C6DE",
+    "source": "Can <card_card>resurrect</> fallen friends to turn the tide of battle.",
+    "translation": "Может <card_card>воскрешать</> павших друзей, чтобы переломить ход битвы."
+  },
+  {
+    "namespace": "",
+    "key": "2182584D409B1E12CD06729182A943F0",
+    "source": "Cleric",
+    "translation": "Жрец"
+  },
+  {
+    "namespace": "",
+    "key": "51E9085E43E045EC568A88B5C9E42103",
+    "source": "A devoted healer who focuses on protection, restoration, and support for the team. By playing certain cards he gathers Providence points, and once enough are collected he is granted a choice of powerful one-time miracles.",
+    "translation": "Преданный своему делу целитель, который защищает, исцеляет и поддерживает отряд. Разыгрывая определённые карты, он накапливает очки Провидения. Набрав достаточно очков, он получает на выбор могущественные чудеса, каждое из которых можно использовать один раз."
+  },
+  {
+    "namespace": "",
+    "key": "0830D3D8480CB0B4A8BA7BAF8B54DB4A",
+    "source": "A master of the elements; destroys with <card_card>Fire</>, supports and controls with <card_card>Water</>.",
+    "translation": "Повелительница стихий: разрушает с помощью <card_card>Огня</>, поддерживает и сдерживает с помощью <card_card>Воды</>."
+  },
+  {
+    "namespace": "",
+    "key": "AC4D0F0A4F651AA21F092AB03893DECE",
+    "source": "Capable of <card_mana>Freezing</> enemies, forcing them to skip their next turn.",
+    "translation": "Умеет <card_mana>замораживать</> врагов, вынуждая их пропускать следующий ход."
+  },
+  {
+    "namespace": "",
+    "key": "DD093F544C89727F8FB067AE7A88EF01",
+    "source": "Her spells often <card_damage>affect whole areas</>, but might require <card_weaken>discarding</> other cards to play.",
+    "translation": "Её заклинания часто <card_damage>действуют по области</>, но для их розыгрыша может потребоваться <card_weaken>сбросить</> другие карты."
+  },
+  {
+    "namespace": "",
+    "key": "48FE60564BED0F0146D2B594D5D9D22C",
+    "source": "Sorceress",
+    "translation": "Чародейка"
+  },
+  {
+    "namespace": "",
+    "key": "40B7D9FB4B5CBF650FCF9BBC5DF88EBD",
+    "source": "A master of the elements, balancing Fire for destruction and Water for control and support, though casting one element raises the cost of its opposite. Many of her spells require discarding or exhausting other cards as a price. Her Chaos magic pushes this risk even further, offering unpredictable but devastating rewards.",
+    "translation": "Повелительница стихий, которая использует Огонь для разрушения, а Воду — для контроля и поддержки. Применение одной стихии повышает стоимость противоположной. Многие её заклинания требуют сбросить или истощить другие карты. Магия Хаоса ещё рискованнее: её эффекты непредсказуемы, но сокрушительны."
+  },
+  {
+    "namespace": "",
+    "key": "580F24EE4F822B64466EEB9457912650",
+    "source": "Cedric",
+    "translation": "Седрик"
+  },
+  {
+    "namespace": "",
+    "key": "7A26E247430E11D83F8F2585B02AD5E2",
+    "source": "Varyn",
+    "translation": "Варин"
+  },
+  {
+    "namespace": "",
+    "key": "4C4ED38D400A47DB4DE2C3A7FE1581DC",
+    "source": "Maximus",
+    "translation": "Максимус"
+  },
+  {
+    "namespace": "",
+    "key": "F342CC3C469439B10B67E395D401D3D3",
+    "source": "A <card_block>protector</> by calling. Can give <card_block>Block</> <img id=\"Block\"/> to friends or even tank for them.",
+    "translation": "<card_block>Защитник</> по призванию. Может давать друзьям <card_block>блок</> <img id=\"Block\"/> и даже принимать удары вместо них."
+  },
+  {
+    "namespace": "",
+    "key": "0768331F4DD8E283462CD3A312ACEC73",
+    "source": "A versatile fighter that can attack in both <card_damage>melee</> and <card_damage>ranged</> distances.",
+    "translation": "Универсальный боец, способный атаковать с <card_damage>ближней</> и <card_damage>дальней</> дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "FE26BA764A213F307F4478A92FC78D49",
+    "source": "Can issue <card_card>Command Cards</> to other heroes, adapting to the battlefield.",
+    "translation": "Может давать другим героям <card_card>карты Приказов</>, подстраиваясь под обстановку на поле боя."
+  },
+  {
+    "namespace": "",
+    "key": "409BAF62DAD34D29A75D516EFC0BF529",
+    "source": "Paladin",
+    "translation": "Паладин"
+  },
+  {
+    "namespace": "",
+    "key": "7CDE608A493D479D970290B6AFB1BD1C",
+    "source": "A stalwart tank who specializes in gaining and sharing block, shielding the party from harm. He can temporarily claim another hero’s sector, forcing enemies to strike him instead, and while his healing is limited, his resilience makes him indispensable.",
+    "translation": "Стойкий защитник, который накапливает блок и делится им, оберегая отряд от урона. Может временно занять сектор другого героя, вынуждая врагов атаковать себя. Его способности к исцелению ограничены, но выносливость делает его незаменимым."
+  },
+  {
+    "namespace": "",
+    "key": "63D24C3F46A3C9AF45D3B59F4F932CE9",
+    "source": "Ysolda",
+    "translation": "Изольда"
+  },
+  {
+    "namespace": "",
+    "key": "69FB81BF4940D4651BC84E95601B6AFB",
+    "source": "Brynn",
+    "translation": "Бринн"
+  },
+  {
+    "namespace": "",
+    "key": "67A4DAB846CBDB406A541BBB168ECAF3",
+    "source": "Runa",
+    "translation": "Руна"
+  },
+  {
+    "namespace": "",
+    "key": "4C5953874F3B6B25381D2083160BFAF5",
+    "source": "Can’t spell Ranger without <card_damage>range</>; engages exclusively at distance.",
+    "translation": "Держит врагов <card_damage>на расстоянии</> и сражается исключительно издалека."
+  },
+  {
+    "namespace": "",
+    "key": "C99C39694E64FCBE0DB2A2B5ED20B262",
+    "source": "Using <card_card>Arrows</> and <card_card>Tweaks</> cards to tailor her shots to any enemy or situation. ",
+    "translation": "С помощью карт <card_card>Стрел</> и <card_card>Модификаций</> подстраивает свои выстрелы под любого врага и любую ситуацию. "
+  },
+  {
+    "namespace": "",
+    "key": "0BA441914DDB3F2AB753838018BDFA89",
+    "source": "Notoriously immature sense of humor.",
+    "translation": "Печально известна своими детскими шутками."
+  },
+  {
+    "namespace": "",
+    "key": "AD3EDA724AB88E33878A00A49D43EDB4",
+    "source": "Ranger",
+    "translation": "Следопыт"
+  },
+  {
+    "namespace": "",
+    "key": "605F8438480F5230302EF3B8E82E434A",
+    "source": "Trick Shooter",
+    "translation": "Мастер хитрых выстрелов"
+  },
+  {
+    "namespace": "",
+    "key": "C55CCD7A40F6B698D12D69A0163ECFCF",
+    "source": "Relentless <card_damage>melee</> fighter who thrives on aggression",
+    "translation": "Неутомимый боец <card_damage>ближнего боя</>, чья сила — в натиске"
+  },
+  {
+    "namespace": "",
+    "key": "0C5AF3BE41B566961E9CA2B807CC7260",
+    "source": "Builds up <card_rage>Rage</> when fighting, which can be spent to deal even more <card_damage>damage</>.",
+    "translation": "В бою накапливает <card_rage>Ярость</>, которую может потратить, чтобы нанести ещё больше <card_damage>урона</>."
+  },
+  {
+    "namespace": "",
+    "key": "4B1B3765497DEC4055105DA32AF042B8",
+    "source": "Once <card_rage>raging</>, he has to attack someone. Unspent <card_rage>Rage</> at the end of the turn <card_damage>damages other party members</>.",
+    "translation": "Впав в <card_rage>ярость</>, он обязан кого-нибудь атаковать. Неизрасходованная к концу хода <card_rage>Ярость</> <card_damage>наносит урон остальным участникам отряда</>."
+  },
+  {
+    "namespace": "",
+    "key": "16AC0A0D4AB6B0584BE29E8D0D86EA5F",
+    "source": "Berserker",
+    "translation": "Берсерк"
+  },
+  {
+    "namespace": "",
+    "key": "BBE9B45341E7D535C867338F73F3154A",
+    "source": "A brutal warrior who deals immense melee damage, growing stronger the longer he fights. His attacks generate Rage, which can be released when he kills a monster, but any Rage left at the end of the round erupts against his allies.",
+    "translation": "Свирепый воин, который наносит огромный урон в ближнем бою и становится тем сильнее, чем дольше сражается. Атаки накапливают Ярость, которую он может сбросить, убив врага. Если к концу раунда Ярость остаётся, он обрушивает её на союзников."
+  },
+  {
+    "namespace": "",
+    "key": "DD8CD00245424F3E087D31B0D2FA205A",
+    "source": "Lysandra",
+    "translation": "Лисандра"
+  },
+  {
+    "namespace": "",
+    "key": "B140FADF429BE5157BB7619C70A09D0A",
+    "source": "Morwenna",
+    "translation": "Морвенна"
+  },
+  {
+    "namespace": "",
+    "key": "3CC35CA24DD072EBB28920875837886E",
+    "source": "Aradia",
+    "translation": "Арадия"
+  },
+  {
+    "namespace": "",
+    "key": "8B36FB624E53DF28DF5A18AE261C3CA2",
+    "source": "A master of the elements; destroys with <card_card>Fire</>, supports and controls with <card_card>Water</>.",
+    "translation": "Повелительница стихий: разрушает с помощью <card_card>Огня</>, поддерживает и сдерживает с помощью <card_card>Воды</>."
+  },
+  {
+    "namespace": "",
+    "key": "4ADDB4834D4703BB3F6EA1BB87ACEC4B",
+    "source": "Capable of <card_mana>Freezing</> enemies, forcing them to skip their next turn.",
+    "translation": "Умеет <card_mana>замораживать</> врагов, вынуждая их пропускать следующий ход."
+  },
+  {
+    "namespace": "",
+    "key": "23D4185F4089A063C2F0E4AAECE76330",
+    "source": "Her spells often <card_damage>affect whole areas</>, but might require <card_weaken>discarding</> or <card_weaken>exhausting</> other cards to play.",
+    "translation": "Её заклинания часто <card_damage>действуют по области</>, но для их розыгрыша может потребоваться <card_weaken>сбросить</> или <card_weaken>истощить</> другие карты."
+  },
+  {
+    "namespace": "",
+    "key": "3C2275E44636921615ACD38E33D24C9D",
+    "source": "Sorceress",
+    "translation": "Чародейка"
+  },
+  {
+    "namespace": "",
+    "key": "6457687145A3DE2BE5366582C28D1365",
+    "source": "A master of the elements, balancing Fire for destruction and Water for control and support, though casting one element raises the cost of its opposite. Many of her spells require discarding or exhausting other cards as a price. Her Chaos magic pushes this risk even further, offering unpredictable but devastating rewards.",
+    "translation": "Повелительница стихий, которая использует Огонь для разрушения, а Воду — для контроля и поддержки. Применение одной стихии повышает стоимость противоположной. Многие её заклинания требуют сбросить или истощить другие карты. Магия Хаоса ещё рискованнее: её эффекты непредсказуемы, но сокрушительны."
+  },
+  {
+    "namespace": "",
+    "key": "1697E2614DF894AAF89D7299A171BC01",
+    "source": "A <card_block>protector</> by calling. Can give <card_block> Block</> <img id=\"Block\"/> to friends or even tank for them.",
+    "translation": "<card_block>Защитник</> по призванию. Может давать друзьям <card_block>блок</> <img id=\"Block\"/> и даже принимать удары вместо них."
+  },
+  {
+    "namespace": "",
+    "key": "920314744CEA0348C87BC2A05ECE3535",
+    "source": "A versatile fighter that can attack in both <card_damage>melee</> and <card_damage>ranged</> distances.",
+    "translation": "Универсальный боец, способный атаковать с <card_damage>ближней</> и <card_damage>дальней</> дистанции."
+  },
+  {
+    "namespace": "",
+    "key": "CE94A3394E2A0F9BC1D22493710A98DA",
+    "source": "Can issue <card_card>Command Cards</> to other heroes, adapting to the battlefield.",
+    "translation": "Может давать другим героям <card_card>карты Приказов</>, подстраиваясь под обстановку на поле боя."
+  },
+  {
+    "namespace": "",
+    "key": "D0EE61D2413E201A5A1CC6BBBC1B1EB3",
+    "source": "Paladin",
+    "translation": "Паладин"
+  },
+  {
+    "namespace": "",
+    "key": "E0D5CD254A24B39430901181CAFD417C",
+    "source": "A stalwart tank who specializes in gaining and sharing block, shielding the party from harm. He can temporarily claim another hero’s sector, forcing enemies to strike him instead, and while his healing is limited, his resilience makes him indispensable.",
+    "translation": "Стойкий защитник, который накапливает блок и делится им, оберегая отряд от урона. Может временно занять сектор другого героя, вынуждая врагов атаковать себя. Его способности к исцелению ограничены, но выносливость делает его незаменимым."
+  },
+  {
+    "namespace": "",
+    "key": "960A8B1A4E8C4A5E202BE1A18F45D77E",
+    "source": "{ShortDescription}\r\nCurrent <card_damage>bonus damage: {total}</>",
+    "translation": "{ShortDescription}\nТекущий <card_damage>дополнительный урон: {total}</>"
+  },
+  {
+    "namespace": "",
+    "key": "C573923B4C7B8679C0542E824F71AA70",
+    "source": "Select up to {cards} card(s) to discard ",
+    "translation": "Выберите карты для сброса (не более {cards}) "
+  },
+  {
+    "namespace": "",
+    "key": "CD5045CB432A2B0A08710282AE612C2D",
+    "source": "At the end of combat, gain {Attribute} for every monster you killed.",
+    "translation": "В конце боя получите {Attribute} за каждого убитого вами врага."
+  },
+  {
+    "namespace": "",
+    "key": "B545C9DE463B0C3784AD2E978F163FC6",
+    "source": "Exhaust a card",
+    "translation": "Истощите карту"
+  },
+  {
+    "namespace": "",
+    "key": "C33B549E4F526FFC14BEB987B550AEE5",
+    "source": "\"{Bet}\"\r\nReward: {Amount} <img id=\"Gemstones\"/>.",
+    "translation": "«{Bet}»\nНаграда: {Amount} <img id=\"Gemstones\"/>."
+  },
+  {
+    "namespace": "",
+    "key": "FD18B5F44667F55CE90300AD5462C076",
+    "source": "A Hero shall die during this Battle.",
+    "translation": "В этом бою погибнет герой."
+  },
+  {
+    "namespace": "",
+    "key": "69A6D3F1409095AF7B1B228A28538E4A",
+    "source": "No Hero shall take damage in this Battle.",
+    "translation": "Ни один герой не получит урон в этом бою."
+  },
+  {
+    "namespace": "",
+    "key": "1B76C44D450242CC539D4E908612F4E9",
+    "source": "Heroes shall win this Battle in {NumRounds} Rounds.",
+    "translation": "Герои победят в этом бою. Лимит раундов: {NumRounds}."
+  },
+  {
+    "namespace": "",
+    "key": "5E33B1F04E9EC117755286A7CB6D989B",
+    "source": "Hero's Death Bet",
+    "translation": "Ставка на гибель героя"
+  },
+  {
+    "namespace": "",
+    "key": "024CB8F44D96F19B43EDC5BBCB1E6CA9",
+    "source": "A Hero shall die during this Battle.",
+    "translation": "В этом бою погибнет герой."
+  },
+  {
+    "namespace": "",
+    "key": "1B60642E4CD00F43175470AAA7665865",
+    "source": "{ShortDescription}\r\nCurrent <card_skill>Skill</> cards played: {NumberOfCardsPlayed}.",
+    "translation": "{ShortDescription}\nРазыграно карт типа <card_skill>Навык</>: {NumberOfCardsPlayed}."
+  },
+  {
+    "namespace": "",
+    "key": "6E1A504E421D6124CE35D895A1D07F69",
+    "source": "Select a card to remove from this battle. ",
+    "translation": "Выберите карту, которую нужно убрать из этого боя. "
+  },
+  {
+    "namespace": "",
+    "key": "360B4B8F4002BF43BEF89BB0EB3AF780",
+    "source": "Black Hole",
+    "translation": "Чёрная дыра"
+  },
+  {
+    "namespace": "",
+    "key": "99D18E0947F298B141C581B41749F3A2",
+    "source": "Exhaust {Number} card from hand",
+    "translation": "Истощите карты из руки: {Number}"
+  },
+  {
+    "namespace": "",
+    "key": "14CC67AA4110964B292825A0EFFFD781",
+    "source": "Circular Flow",
+    "translation": "Круговорот"
+  },
+  {
+    "namespace": "",
+    "key": "43AD61D64E5EDC03921C20928B480572",
+    "source": "{Short Description} \r\nCurrent <card_type>Skill</> cards played: {NumberOfCardsPlayed}.",
+    "translation": "{Short Description} \nРазыграно карт типа <card_type>Навык</>: {NumberOfCardsPlayed}."
+  },
+  {
+    "namespace": "",
+    "key": "FAF07A24416CBCB47D58EFA1B44D14D0",
+    "source": "Providence",
+    "translation": "Провидение"
+  },
+  {
+    "namespace": "",
+    "key": "FF268A7A4E277C43F734CE98F9BCF4F1",
+    "source": "Select Providence Card",
+    "translation": "Выберите карту Провидения"
+  },
+  {
+    "namespace": "",
+    "key": "3C12B6F84053E2D80FCDD18B11474A6F",
+    "source": "Target hero draws {How Many Cards To Draw} more cards at the start of their next turn.",
+    "translation": "В начале следующего хода выбранный герой доберёт дополнительные карты: {How Many Cards To Draw}."
+  },
+  {
+    "namespace": "",
+    "key": "838874E443863A10558DA783CBF8C856",
+    "source": "Select up to {cards} card(s) to discard ",
+    "translation": "Выберите карты для сброса (не более {cards}) "
+  },
+  {
+    "namespace": "",
+    "key": "C380EABD4ABC0DF0AFE7E7B3D5360D3A",
+    "source": "{ShortDescription}\r\nCurrent damage bonus: <card_damage>{Amount of Damage}</>",
+    "translation": "{ShortDescription}\nТекущая прибавка к урону: <card_damage>{Amount of Damage}</>"
+  },
+  {
+    "namespace": "",
+    "key": "1470B45048AE64ED51ED3DB35CD38D9D",
+    "source": "Discard",
+    "translation": "Сброс"
+  },
+  {
+    "namespace": "",
+    "key": "F78B84FA43CD40E812132583EE9573BB",
+    "source": "Exhaust",
+    "translation": "Истощение"
+  },
+  {
+    "namespace": "",
+    "key": "C15E0AD845E5946D1F557A89A5C960EB",
+    "source": "{ShortDescription}\r\nCurrent <card_type>{MagicToReplay}</> cards played: {CardsPlayed}.",
+    "translation": "{ShortDescription}\nРазыграно карт типа <card_type>{MagicToReplay}</>: {CardsPlayed}."
+  },
+  {
+    "namespace": "",
+    "key": "025149BC4C428B288766929D68586875",
+    "source": "This turn, playing cards damages hero by {dmg}.",
+    "translation": "В этом ходу каждый розыгрыш карты наносит герою {dmg} урона."
+  },
+  {
+    "namespace": "",
+    "key": "092A0F154D1A6265A4977CBA21D79600",
+    "source": "At the start of your turn, gain {BlockAmount} {BlockIcon}  ({AttributeBaseIcon}).",
+    "translation": "В начале своего хода получите {BlockAmount} {BlockIcon} ({AttributeBaseIcon})."
+  },
+  {
+    "namespace": "",
+    "key": "DF7EC6B747A0509D95F115891D154090",
+    "source": "Soul Vault",
+    "translation": "Хранилище душ"
+  },
+  {
+    "namespace": "",
+    "key": "218FA7AA464AAB8DEA550DAEFE3D45BE",
+    "source": "GoldenTrail",
+    "translation": "Золотой след"
+  },
+  {
+    "namespace": "",
+    "key": "639A7AE347566E35827F4D95B1886932",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "AF23370B43B104E812B1669120E46CA5",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "415C13F14E3DD4768BA47B90460A255D",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "D95328E14CEAF929B9658680A33BDE6B",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "261087954840B6D8E37EFCBDC0B8A949",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "9B7868C44456547FE5D52AA0786FF08C",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "FD44D48749E36CC40051AA873B77897B",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "66C7C64344C8EAF95A721BA5E0ECC31E",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "084EB2B24E5F03FB6F5B30B9E7C2471C",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "C7C733314A46FA3A48DF77AB9332C84E",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "32293F124C7A80D5323CC2AB7630F894",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "49F5106E4E8F01446E6488B1FAAEC710",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "0CF541264A1CA07B1342A1AE23F26493",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "8FD169894C22DE73C6BB6BAC39A8A852",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "E11D11B9407822F6FB12D38B2044839D",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "FA3D06A14F9B468568A92CBCA6B74166",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "DFF7762B4718D91DAD100F9A3E3F1F9A",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "B8AABF3946706CE02ED2D4B2739E40AD",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "84D098DA4CA00DD8225AF9B728ABF55A",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "453F96E0450FBFA6225B6D82A884B7EA",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "BDCEB98841BDFE48AC558E8FEEEC5948",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "2FB6F7004FAFF30675E561A6C927A2D0",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "AEE7A7FA4BC739AE2382439B594ABB29",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "9651965A464668C94AFA8FBD5FA37E32",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "1479E4F74573AB44102D519471F013CF",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "F94F56EC4D86BBD3AA2337A251D7CAAD",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "B98EF4824780D7A4BA4E3CB97A3F9CA4",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "FFA33E544C6828A051582587CAB82B45",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "9A06416C44D1CF8B1E6F17AED7E18801",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "4A7220F24D830F75911965948D13A1A9",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "3530A5434E6B09AEA2C4F498BC9CF05A",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "2AE95D614D5C1A27BDD59C98861D017E",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "176385DC40638985CF573CA885422D39",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "370B1785468B932A6C1192B9AE944D83",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "E423157F4362F459C6468EB6E6F55126",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "C3B4394E49622496D07FD8B2C1FCB8EA",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "C23FD3484F7AF82E1B68F29882F0E128",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "3DDBAD8B49D5924E1CB2838101F4A821",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "8534EF9A493DD672F1046FAA78A643BB",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "D2FABC5C4C78DD9439C141940CAD00BC",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "6BBCB86F49BBED1BDB446FB5DCD2F274",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "9F832D4142BE8ED6E0E3BCA0DEF5131D",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "D20B711D4DB88568F83B5BAB7A154C37",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "3FDD60BE493EC401883766B5E032B023",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "423E3D7B4FF83FA2F4CAD489AD1356F2",
+    "source": "Shouldn’t over-accessorize.",
+    "translation": "Не стоит увешиваться безделушками."
+  },
+  {
+    "namespace": "",
+    "key": "D2938B14456A8D910292BF850A1DC3AC",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "7CA936E843D9BFAF3CD2B68A770A026D",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "6F9E0F4D4EE59012437FFCB408C94567",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "25300BF3448F7A8BF372A3A05E16A363",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "161C994D457C9B7B70BDCFB5AEC6F574",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "1FFB12944A3F4500E49424A142349665",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "08129BB0459D26E10A74A9A672D8BEF9",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "DD14E72A41BA3C43A098E1911DDCC247",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "891CE1634F393261D7EB8E8DE5E0C92F",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "2DC958AF466564A3C68F37BF783DB353",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "1C82FA9E42B9793347C30ABF2FFCBBCC",
+    "source": "Choices, choices!",
+    "translation": "Выбор, выбор!"
+  },
+  {
+    "namespace": "",
+    "key": "5597091441A49A96C15B3BA54E177746",
+    "source": "Cannot join Lobby",
+    "translation": "Не удалось присоединиться к лобби"
+  },
+  {
+    "namespace": "",
+    "key": "E0E1474A49719D8C88501590FECF1023",
+    "source": "Accept",
+    "translation": "Принять"
+  },
+  {
+    "namespace": "",
+    "key": "76716FC54FDB42943A429CA12231DFFB",
+    "source": "Discard",
+    "translation": "Сброс"
+  },
+  {
+    "namespace": "",
+    "key": "41BA4246492349B7A667D49310D659E3",
+    "source": "When your Draw Pile is empty, the Discard Pile is shuffled into the Draw Pile.",
+    "translation": "Когда колода добора пустеет, сброшенные карты перемешиваются и становятся новой колодой добора."
+  },
+  {
+    "namespace": "",
+    "key": "8B9049CF4591039337C2739FCAA25148",
+    "source": "Draw",
+    "translation": "Колода добора"
+  },
+  {
+    "namespace": "",
+    "key": "06523C0249DE8359ED3CC2B96CECF1CA",
+    "source": "At the start of each turn, cards are drawn from here.",
+    "translation": "В начале каждого хода вы добираете карты отсюда."
+  },
+  {
+    "namespace": "",
+    "key": "BC2C27BE488CFB06A4D99C8647CB4BC0",
+    "source": "Exhaust",
+    "translation": "Истощение"
+  },
+  {
+    "namespace": "",
+    "key": "8CB0C35841E87A51A3307AB9B8D20E73",
+    "source": "Exhausted cards are removed from play for the rest of the combat.",
+    "translation": "Истощённые карты выходят из игры до конца боя."
+  },
+  {
+    "namespace": "",
+    "key": "8EA7656446B6A82DDC482BA569BC1E2C",
+    "source": "No sessions found.",
+    "translation": "Сеансы не найдены."
+  },
+  {
+    "namespace": "",
+    "key": "A9E3F57343AE7750474C19B279E5122A",
+    "source": "Lobby invite accepted",
+    "translation": "Приглашение в лобби принято"
+  },
+  {
+    "namespace": "",
+    "key": "99C24803468A3483FB21CDAC74D10CAF",
+    "source": "Joining your friend's lobby will result in abandoning the current game. Are you sure?",
+    "translation": "При входе в лобби друга вы покинете текущую игру. Продолжить?"
+  },
+  {
+    "namespace": "",
+    "key": "AAEF8AB94FE985F127BCD9A44C5482AC",
+    "source": "Resume Turn",
+    "translation": "Продолжить ход"
+  },
+  {
+    "namespace": "",
+    "key": "50F2BA334E03A191E695E18A2C9A6058",
+    "source": "End Turn",
+    "translation": "Завершить ход"
+  },
+  {
+    "namespace": "",
+    "key": "700650064031782C23D809B1062C910D",
+    "source": "Please wait...",
+    "translation": "Подождите..."
+  },
+  {
+    "namespace": "",
+    "key": "679ED9DD42F967D74E78C8BC775F8F75",
+    "source": "Fast-Forward",
+    "translation": "Ускорить"
+  },
+  {
+    "namespace": "",
+    "key": "D3C4BDDD4BAC5A709A1D7BA97E5B47BB",
+    "source": "Cancel Choice",
+    "translation": "Отменить выбор"
+  },
+  {
+    "namespace": "",
+    "key": "1BA4CC6844E23A630E1094B6603F91D7",
+    "source": "Pass Action",
+    "translation": "Пропустить действие"
+  },
+  {
+    "namespace": "",
+    "key": "5D39421944922794EF546A9B1F5CE17B",
+    "source": "Not Ready",
+    "translation": "Не готов"
+  },
+  {
+    "namespace": "",
+    "key": "8AF2960A416C7AF6AF43D1A8A52AC6AF",
+    "source": "Ready",
+    "translation": "Готов"
+  },
+  {
+    "namespace": "",
+    "key": "96E47D7E4C4D3F6ECCB4EE878647999C",
+    "source": "Back to Rewards",
+    "translation": "Назад к наградам"
+  },
+  {
+    "namespace": "",
+    "key": "00348A824F56F1B9886E7DAF1C3A9007",
+    "source": "Please wait...",
+    "translation": "Подождите..."
+  },
+  {
+    "namespace": "",
+    "key": "9EE3524140E7F203B2A005A1205E0EA7",
+    "source": "Return To Lobby",
+    "translation": "Вернуться в лобби"
+  },
+  {
+    "namespace": "",
+    "key": "C67DDD094F0FA46C5CE977B2255359E6",
+    "source": "Return To Menu",
+    "translation": "Вернуться в меню"
+  },
+  {
+    "namespace": "",
+    "key": "329FEF0143961B4151D70CB1DCDE30B1",
+    "source": "Deck",
+    "translation": "Колода"
+  },
+  {
+    "namespace": "",
+    "key": "54D34A2745EE2490345BA88AAB2048FE",
+    "source": "Show Deck of your currently selected character.",
+    "translation": "Показать колоду выбранного персонажа."
+  },
+  {
+    "namespace": "",
+    "key": "289F18574F63198D2CF94B9C3546C10C",
+    "source": "Accept",
+    "translation": "Принять"
+  },
+  {
+    "namespace": "",
+    "key": "4827C8384A9969ECE30334BE2B406FE5",
+    "source": "Forward",
+    "translation": "Вперёд"
+  },
+  {
+    "namespace": "",
+    "key": "CEEA21EA4106790027EA5AA33CC27B5C",
+    "source": "Pray to increase your attributes.",
+    "translation": "Помолитесь, чтобы повысить свои характеристики."
+  },
+  {
+    "namespace": "",
+    "key": "2A2BBED4428AF148974644A0DC697A8C",
+    "source": "WANTED",
+    "translation": "РОЗЫСК"
+  },
+  {
+    "namespace": "",
+    "key": "3F46431C4BA39676256C8C817D83F8CC",
+    "source": "Character Hands",
+    "translation": "Карты персонажей"
+  },
+  {
+    "namespace": "",
+    "key": "4590D9744048A7D866415FBA03FDF326",
+    "source": "Ready",
+    "translation": "Готов"
+  },
+  {
+    "namespace": "",
+    "key": "990987C64BF48A48B7A20ABBE20A1A58",
+    "source": "Communicate",
+    "translation": "Общение"
+  },
+  {
+    "namespace": "",
+    "key": "5294FC1747D2CC5CFFA1D3AF9B36A32F",
+    "source": "Change Character",
+    "translation": "Сменить персонажа"
+  },
+  {
+    "namespace": "",
+    "key": "FCCB55D24FA648EA2FD6CDB41E3E2A04",
+    "source": "Previous",
+    "translation": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "66010A4649488EA0930DF78C30A83D54",
+    "source": "Next",
+    "translation": "Далее"
+  },
+  {
+    "namespace": "",
+    "key": "F5D2702A436462977CF199BE73877705",
+    "source": "Skip",
+    "translation": "Пропустить"
+  },
+  {
+    "namespace": "",
+    "key": "9B64FB244EE5480AA700AABFA463849C",
+    "source": "Exit",
+    "translation": "Выход"
+  },
+  {
+    "namespace": "",
+    "key": "E8F02A5E4A4186D171EF21B0494911CF",
+    "source": "Return to Menu",
+    "translation": "Вернуться в меню"
+  },
+  {
+    "namespace": "",
+    "key": "4E29C1FA44E6E971951C4C8D64CAF6F0",
+    "source": "Customize",
+    "translation": "Настроить"
+  },
+  {
+    "namespace": "",
+    "key": "7B00447B4D90A4427174F4AA463A9E5A",
+    "source": "Change Player",
+    "translation": "Сменить игрока"
+  },
+  {
+    "namespace": "",
+    "key": "12C6AB294E7043596F7B12B37D218EA9",
+    "source": "Auto Play (Other Character)",
+    "translation": "Авторозыгрыш (другой персонаж)"
+  },
+  {
+    "namespace": "",
+    "key": "EE1635B7484FE19D3ECC03A34903BFAB",
+    "source": "Accept",
+    "translation": "Принять"
+  },
+  {
+    "namespace": "",
+    "key": "1BB9015E4CB023CFA289BD8346885217",
+    "source": "Remove",
+    "translation": "Удалить"
+  },
+  {
+    "namespace": "",
+    "key": "7A46811043424C04F23FA6AD78F86C3B",
+    "source": "Don't Remove",
+    "translation": "Не удалять"
+  },
+  {
+    "namespace": "",
+    "key": "844C893F42E1DC9CCA812F911604C211",
+    "source": "Skip This Reward",
+    "translation": "Отказаться от награды"
+  },
+  {
+    "namespace": "",
+    "key": "AC98A9704F03E3D4D9F2388707EA60D5",
+    "source": "Not Ready",
+    "translation": "Не готов"
+  },
+  {
+    "namespace": "",
+    "key": "9A9D881C468FEB544F8B5185726507DC",
+    "source": "Accept",
+    "translation": "Принять"
+  },
+  {
+    "namespace": "",
+    "key": "94F97DA449310797BCDE0D9BB7FCABB2",
+    "source": "Swap Item",
+    "translation": "Сменить предмет"
+  },
+  {
+    "namespace": "",
+    "key": "A964139F45F7100877313882DB725F73",
+    "source": "Change Class",
+    "translation": "Сменить класс"
+  },
+  {
+    "namespace": "",
+    "key": "B73B39C5454A443DDF5A518DB31ACEEE",
+    "source": "Rename Character",
+    "translation": "Переименовать персонажа"
+  },
+  {
+    "namespace": "",
+    "key": "337A962445008F298142E5948F54ECB6",
+    "source": "Upgrade Tree",
+    "translation": "Дерево улучшений"
+  },
+  {
+    "namespace": "",
+    "key": "450C6A0944F119E4B4E4638B0DCB1220",
+    "source": "Equip Item",
+    "translation": "Экипировать предмет"
+  },
+  {
+    "namespace": "",
+    "key": "96CE0CA444939CE4C8834580D5DCA325",
+    "source": "Unlock",
+    "translation": "Разблокировать"
+  },
+  {
+    "namespace": "",
+    "key": "8A49D7794539DAB6F15D33B560C6335F",
+    "source": "Equip",
+    "translation": "Экипировать"
+  },
+  {
+    "namespace": "",
+    "key": "98AB9E2944EF9B0CBC6ECD84A52E80D2",
+    "source": "Unequip",
+    "translation": "Снять"
+  },
+  {
+    "namespace": "",
+    "key": "2179C9404666BE2C1A5FC89492622B18",
+    "source": "Enchant",
+    "translation": "Зачаровать"
+  },
+  {
+    "namespace": "",
+    "key": "6B89E5DA42A5EDB8686A3E8B11612701",
+    "source": "Add Enchantment",
+    "translation": "Добавить зачарование"
+  },
+  {
+    "namespace": "",
+    "key": "84865FE647EF3D8C834976A82D19D06F",
+    "source": "Remove Enchantment",
+    "translation": "Снять зачарование"
+  },
+  {
+    "namespace": "",
+    "key": "41C5E4DE40F99509698599B760693213",
+    "source": "Browse Lobbies",
+    "translation": "Поиск лобби"
+  },
+  {
+    "namespace": "",
+    "key": "D6E56CD84E01975BBF55259D2175E184",
+    "source": "Expand Player List",
+    "translation": "Развернуть список игроков"
+  },
+  {
+    "namespace": "",
+    "key": "141AAB0840004D68DCF500A29E6038A7",
+    "source": "Choose Selected",
+    "translation": "Подтвердить выбор"
+  },
+  {
+    "namespace": "",
+    "key": "C90590B248A3423F536A9FA6D53A65E7",
+    "source": "Remove Player",
+    "translation": "Удалить игрока"
+  },
+  {
+    "namespace": "",
+    "key": "AB49E3B1406A281C1D595796B86BE328",
+    "source": "Refresh",
+    "translation": "Обновить"
+  },
+  {
+    "namespace": "",
+    "key": "41AC59E0438D20BB6AD93EAA88946751",
+    "source": "Filter and Sort",
+    "translation": "Фильтр и сортировка"
+  },
+  {
+    "namespace": "",
+    "key": "05E24CA746357F9BA99FC28A288E35C6",
+    "source": "Join by Invite Code",
+    "translation": "Войти по коду приглашения"
+  },
+  {
+    "namespace": "",
+    "key": "EC06006147027C63A105B5A73E297E2C",
+    "source": "Create Lobby",
+    "translation": "Создать лобби"
+  },
+  {
+    "namespace": "",
+    "key": "15F5BEEC4E6F2825608183B2A35F20DD",
+    "source": "Embark",
+    "translation": "В путь"
+  },
+  {
+    "namespace": "",
+    "key": "B8BF44B7402CA53E4AF538B1A87AEA21",
+    "source": "Play Selected Card",
+    "translation": "Разыграть выбранную карту"
+  },
+  {
+    "namespace": "",
+    "key": "8293170341FF29A69B51A6B387115958",
+    "source": "Character Details",
+    "translation": "Сведения о персонаже"
+  },
+  {
+    "namespace": "",
+    "key": "5A6E2AB045F1C3A37097D19D5B3DAAB4",
+    "source": "Zoom In",
+    "translation": "Приблизить"
+  },
+  {
+    "namespace": "",
+    "key": "EC28342742D2276CABE0A5819E655254",
+    "source": "Zoom Out",
+    "translation": "Отдалить"
+  },
+  {
+    "namespace": "",
+    "key": "C3FD5CAA4F1373B13858578D9CBBE8CB",
+    "source": "Loading...",
+    "translation": "Загрузка..."
+  },
+  {
+    "namespace": "",
+    "key": "F38976E14BD8B18A9F56BD8D8FEC5E9B",
+    "source": "Waiting for data from the server",
+    "translation": "Ожидание данных от сервера"
+  },
+  {
+    "namespace": "",
+    "key": "C23005ED4B10AD9B757E88BC5D8DF415",
+    "source": "Loading game",
+    "translation": "Загрузка игры"
+  },
+  {
+    "namespace": "",
+    "key": "4EAE65EB46A427DB6F198FA56F468748",
+    "source": "Join Anyway",
+    "translation": "Всё равно присоединиться"
+  },
+  {
+    "namespace": "",
+    "key": "12CD2BC2472FFFE10572F88BC8D4508D",
+    "source": "Ok",
+    "translation": "ОК"
+  },
+  {
+    "namespace": "",
+    "key": "46D0490B48F24E1DDDA359A130B6068A",
+    "source": "Saving...",
+    "translation": "Сохранение..."
+  },
+  {
+    "namespace": "",
+    "key": "599D41234ED974380E1961AC33686706",
+    "source": "Enable Autocast",
+    "translation": "Включить авторозыгрыш"
+  },
+  {
+    "namespace": "",
+    "key": "B197B1EA4016C5CACAD18FBA97F0E2D3",
+    "source": "Disable Autocast",
+    "translation": "Выключить авторозыгрыш"
+  },
+  {
+    "namespace": "",
+    "key": "1AB1DFE3490003CE7B8F6FBFB6B8C058",
+    "source": "Paladin",
+    "translation": "Паладин"
+  },
+  {
+    "namespace": "",
+    "key": "3A2FF7004246721DDDD496963794F789",
+    "source": "Paladin",
+    "translation": "Паладин"
+  },
+  {
+    "namespace": "",
+    "key": "A83812D14597B64AF12D60A553277BDD",
+    "source": "Character",
+    "translation": "Персонаж"
+  },
+  {
+    "namespace": "",
+    "key": "9AA133774C311E1AB143589B72497ADA",
+    "source": "Defeat",
+    "translation": "Поражение"
+  },
+  {
+    "namespace": "",
+    "key": "E4AA9D764F74D7DAA8F9E386041FB2A6",
+    "source": "Influence",
+    "translation": "Эффект"
+  },
+  {
+    "namespace": "",
+    "key": "24C5874741894EE0E7A1F7BD71DDA71A",
+    "source": "Deal 5 damage",
+    "translation": "Нанести 5 урона"
+  },
+  {
+    "namespace": "",
+    "key": "FCE3AA47447C68CBD86E749F815C34A3",
+    "source": "Attack",
+    "translation": "Атака"
+  },
+  {
+    "namespace": "",
+    "key": "46D7F29D4020CBFEFBECA7AE9250B8B2",
+    "source": "Skekleton",
+    "translation": "Скелет"
+  },
+  {
+    "namespace": "",
+    "key": "D412E4DE45363387F0BADE87EABC8CBA",
+    "source": "Strength | Health | Block",
+    "translation": "Сила | Здоровье | Блок"
+  },
+  {
+    "namespace": "",
+    "key": "76533EE34BD391DF8B7A8781044B163A",
+    "source": "Strength | Health",
+    "translation": "Сила | Здоровье"
+  },
+  {
+    "namespace": "",
+    "key": "898EEDEB48064E8BD1D4559A4E2E66BE",
+    "source": "Discard",
+    "translation": "Выбросить"
+  },
+  {
+    "namespace": "",
+    "key": "DF7CDBCF440D0CD804A6DDA73A48FAD7",
+    "source": "... and {value} additionall Artifacts",
+    "translation": "... и ещё артефакты: {value}"
+  },
+  {
+    "namespace": "",
+    "key": "8FBEC4D94BE2E98C2A2A05A50653DB57",
+    "source": "Equipped Artifacts",
+    "translation": "Экипированные артефакты"
+  },
+  {
+    "namespace": "",
+    "key": "6347C4DD49005010602298931F322733",
+    "source": "Discard Artifact",
+    "translation": "Выбросить артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "ED9661B14D33FE3686828B8A11204D97",
+    "source": "Do you want to discard the following Artifacts?",
+    "translation": "Выбросить следующие артефакты?"
+  },
+  {
+    "namespace": "",
+    "key": "E5BBE4C141DA28CBF96B05ABD3CB1CFD",
+    "source": "Discard",
+    "translation": "Выбросить"
+  },
+  {
+    "namespace": "",
+    "key": "6FCBDB0B4C2E83C0AB70898393FD33A6",
+    "source": "Cancel",
+    "translation": "Отмена"
+  },
+  {
+    "namespace": "",
+    "key": "4C1F11AD448F9AAE0F0AB79D7CDF0229",
+    "source": "Occupied slots: {occupied}/{total} <img id=\"Weight\"/> ",
+    "translation": "Занято ячеек: {occupied}/{total} <img id=\"Weight\"/> "
+  },
+  {
+    "namespace": "",
+    "key": "CF33F831BEF0462388BAD4A1D164915B",
+    "source": "Required slots: {number}",
+    "translation": "Требуется ячеек: {number}"
+  },
+  {
+    "namespace": "",
+    "key": "310537ED1C1D4CF6AB126F1EC8E5CA31",
+    "source": "Let's Play",
+    "translation": "Сыграем"
+  },
+  {
+    "namespace": "",
+    "key": "93F571909D2541F49FA6FD846A120BA9",
+    "source": "Attack",
+    "translation": "Атака"
+  },
+  {
+    "namespace": "",
+    "key": "2427DDB4E9A44A1991CC0EF405ABDECC",
+    "source": "Attack",
+    "translation": "Атака"
+  },
+  {
+    "namespace": "",
+    "key": "3B4FF533795C4070910E09A7ADBC6A7B",
+    "source": "Skill",
+    "translation": "Навык"
+  },
+  {
+    "namespace": "",
+    "key": "5FEC0BBFAEF84DF6B6179E1C2E1A9FA4",
+    "source": "Power",
+    "translation": "Сила"
+  },
+  {
+    "namespace": "",
+    "key": "96B1835A551F4E1794B93CA0C3A5514A",
+    "source": "Status",
+    "translation": "Состояние"
+  },
+  {
+    "namespace": "",
+    "key": "FCC69F791F2044398C1CC1734F9EB375",
+    "source": "X",
+    "translation": "X"
+  },
+  {
+    "namespace": "",
+    "key": "CEAF371ACCCA405B87CAE63A6654A1E2",
+    "source": "Added {card} to {pile}",
+    "translation": "Добавлено: {card} → {pile}"
+  },
+  {
+    "namespace": "",
+    "key": "69F957DC7DB14DB4989643E2D398E759",
+    "source": "X",
+    "translation": "X"
+  },
+  {
+    "namespace": "",
+    "key": "8F5ABBED494BAAC818DEFDBC35C512ED",
+    "source": "and",
+    "translation": "и"
+  },
+  {
+    "namespace": "",
+    "key": "9690CF234DC23C2EB35750AE54121165",
+    "source": "40 <img id=\"Metacurrency\"/> to unlock",
+    "translation": "40 <img id=\"Metacurrency\"/> для разблокировки"
+  },
+  {
+    "namespace": "",
+    "key": "36B4D27B4D7C5A0C1C00FE8219F546EC",
+    "source": "{Cost}{Metacurrency} for a single run",
+    "translation": "За один забег: {Cost}{Metacurrency}"
+  },
+  {
+    "namespace": "",
+    "key": "9C24FAE347D2DC476B3F2EAFC5B596F5",
+    "source": "Do you want to buy a\r\n{RingName}",
+    "translation": "Купить кольцо?\n{RingName}"
+  },
+  {
+    "namespace": "",
+    "key": "C8D439F443AD4C83795CC0925D37A7EC",
+    "source": "Are you sure you want to unlock the <Strong>{RingName}</> for {Price} {Metacurrency}?",
+    "translation": "Разблокировать кольцо <Strong>{RingName}</> за {Price} {Metacurrency}?"
+  },
+  {
+    "namespace": "",
+    "key": "5190C7F342C7FA3F226128B989FB4A21",
+    "source": "Unlock",
+    "translation": "Разблокировать"
+  },
+  {
+    "namespace": "",
+    "key": "5051BE9F4D3BF7D45FF62AB14940C909",
+    "source": "Cancel",
+    "translation": "Отмена"
+  },
+  {
+    "namespace": "",
+    "key": "EAF2949E494F00793E7F73B44B1582B9",
+    "source": "Cannot equip ring",
+    "translation": "Не удалось надеть кольцо"
+  },
+  {
+    "namespace": "",
+    "key": "EF499D6D4B732AB00368A391A4D97A05",
+    "source": "This character belongs to another player",
+    "translation": "Этот персонаж принадлежит другому игроку"
+  },
+  {
+    "namespace": "",
+    "key": "371E9D5147D7A8F79E0BA9BB8AFD6615",
+    "source": "Back",
+    "translation": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "9421A59A426321DB7E4BD6A3F3F0D25B",
+    "source": "You don't have enough {Metacurrency} to equip this enchant.",
+    "translation": "Недостаточно {Metacurrency} для этого зачарования."
+  },
+  {
+    "namespace": "",
+    "key": "D5E0F8D9418A63F42E5B689191C4EB0F",
+    "source": "Cannot apply enchantment",
+    "translation": "Не удалось применить зачарование"
+  },
+  {
+    "namespace": "",
+    "key": "484032B447FB1A4B0C509399FF8445E0",
+    "source": "Back",
+    "translation": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "2E30D98741B1B3A5888145A6DAC3BCB8",
+    "source": "You can wear a maximum of {MaxRing} rings.",
+    "translation": "Максимум колец, которые можно надеть: {MaxRing}."
+  },
+  {
+    "namespace": "",
+    "key": "F72D8CF54BD21662990A8D90092DF4C7",
+    "source": "You don't have enough {Metacurrency} to unlock <Strong>{RingName}</>",
+    "translation": "Недостаточно {Metacurrency} для разблокировки кольца <Strong>{RingName}</>"
+  },
+  {
+    "namespace": "",
+    "key": "C3362CF840EFE9B2C7D116A2FC23B831",
+    "source": "<Strong>{RingName}</> is currently used by another character",
+    "translation": "Кольцо <Strong>{RingName}</> уже использует другой персонаж"
+  },
+  {
+    "namespace": "",
+    "key": "3C9741AE428DF643D3D504BF95BAC9A2",
+    "source": "Earn {Metacurrency} by completing Runs.",
+    "translation": "Получайте {Metacurrency} за завершение забегов."
+  },
+  {
+    "namespace": "",
+    "key": "FD41FA164D56765F0739D3B908D5D5BF",
+    "source": "Enchantment costs are paid when you start the Run.",
+    "translation": "Стоимость зачарований списывается в начале забега."
+  },
+  {
+    "namespace": "",
+    "key": "31D0B31247805C71A2F8F698EF44AFD4",
+    "source": "Cannot apply enchantment",
+    "translation": "Не удалось применить зачарование"
+  },
+  {
+    "namespace": "",
+    "key": "F087C15445D094905A17E08C1BA680F4",
+    "source": "You must first equip the ring to be able to enchant it.",
+    "translation": "Чтобы зачаровать кольцо, сначала наденьте его."
+  },
+  {
+    "namespace": "",
+    "key": "1F6EDD1A4CEFB1822C8713A38D5C3A9A",
+    "source": "Back",
+    "translation": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "DC3C4F504699B0806E048B800671FB1A",
+    "source": "Character",
+    "translation": "Персонаж"
+  },
+  {
+    "namespace": "",
+    "key": "7B6DE5F04CE784204C05C2BDBEC26494",
+    "source": "Inventory",
+    "translation": "Инвентарь"
+  },
+  {
+    "namespace": "",
+    "key": "64933FF74BAE496A2A1D0788262A14ED",
+    "source": "Deck",
+    "translation": "Колода"
+  },
+  {
+    "namespace": "",
+    "key": "C801D1F64EF2D5FEC92F019C6B943E04",
+    "source": "Rings",
+    "translation": "Кольца"
+  },
+  {
+    "namespace": "",
+    "key": "BFFC16DC42DCE6AAC44AE6AA1F38771A",
+    "source": "Adventure mode",
+    "translation": "Режим приключения"
+  },
+  {
+    "namespace": "",
+    "key": "448A7CBD46B70F22934FF8AC8CBB946E",
+    "source": "Adventure name",
+    "translation": "Название приключения"
+  },
+  {
+    "namespace": "",
+    "key": "0F4731744244241EF26BDBA9A1E18DF5",
+    "source": "Lobby name",
+    "translation": "Название лобби"
+  },
+  {
+    "namespace": "",
+    "key": "B691B708458DBDDCAEB000BF4D6BB72F",
+    "source": "X",
+    "translation": "X"
+  },
+  {
+    "namespace": "",
+    "key": "97CE41A24762DFA1EB0FD5BCC9E34D7A",
+    "source": "Cannot join Lobby",
+    "translation": "Не удалось присоединиться к лобби"
+  },
+  {
+    "namespace": "",
+    "key": "6655829A416315079504E9B543F13B35",
+    "source": "Accept",
+    "translation": "Принять"
+  },
+  {
+    "namespace": "",
+    "key": "DD697B0F6C654D8BA814C006C9327B54",
+    "source": "Connection Error",
+    "translation": "Ошибка соединения"
+  },
+  {
+    "namespace": "",
+    "key": "062B1F3F63BC437594098D736E7FA204",
+    "source": "Unrecognized network error.",
+    "translation": "Неизвестная сетевая ошибка."
+  },
+  {
+    "namespace": "",
+    "key": "C4B6FB67E8F14F728E5597CC86F88F6C",
+    "source": "Understood",
+    "translation": "Понятно"
+  },
+  {
+    "namespace": "",
+    "key": "539CFF904101A8474E8ADA8DE1E2EC58",
+    "source": "Select Option",
+    "translation": "Выберите вариант"
+  },
+  {
+    "namespace": "",
+    "key": "D2DCF6FC48AA6AB06EC96F8B9341FC22",
+    "source": "Your lobby name",
+    "translation": "Название вашего лобби"
+  },
+  {
+    "namespace": "",
+    "key": "035F3E1D475D7F7FAEC5769A18CC8362",
+    "source": "Close",
+    "translation": "Закрыть"
+  },
+  {
+    "namespace": "",
+    "key": "1EB26AB349F84128E6F234B0FF571124",
+    "source": "Close",
+    "translation": "Закрыть"
+  },
+  {
+    "namespace": "",
+    "key": "3E20A04F4C9488150E9BCEBAB0F6EAAA",
+    "source": "Gold is scattered everywhere, feeling of gaze upon your back. You approach carefully, waging if it's worth the risk.",
+    "translation": "Повсюду рассыпано золото, но вы чувствуете на себе чей-то взгляд. Осторожно приближаясь, вы раздумываете, стоит ли оно такого риска."
+  },
+  {
+    "namespace": "",
+    "key": "48E586B544120E6A490FC6B52E38B6D0",
+    "source": "Back",
+    "translation": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "CC7D7C274A152BEA0EC48EAAADCF0EED",
+    "source": "Search",
+    "translation": "Поиск"
+  },
+  {
+    "namespace": "",
+    "key": "3B778025421D24231DFF6EA7B3239EF5",
+    "source": "Leaderboard is Empty",
+    "translation": "Таблица лидеров пуста"
+  },
+  {
+    "namespace": "",
+    "key": "839D8F744D19EC249127C2BB7084C3A4",
+    "source": "Nick",
+    "translation": "Ник"
+  },
+  {
+    "namespace": "",
+    "key": "D1808CED4300C4A43C3A7A8BCC0A1A1A",
+    "source": "No.",
+    "translation": "№"
+  },
+  {
+    "namespace": "",
+    "key": "CFEFC489486CD1FBF5D83C960D17A74A",
+    "source": "Score",
+    "translation": "Результат"
+  },
+  {
+    "namespace": "",
+    "key": "109FB8534EA0CDD101259AB2993468E4",
+    "source": "Player name",
+    "translation": "Имя игрока"
+  },
+  {
+    "namespace": "",
+    "key": "5769374A4C409F4B3AD4DA9E4A6DCCE3",
+    "source": "Score",
+    "translation": "Результат"
+  },
+  {
+    "namespace": "",
+    "key": "6696E7B149BE8790490A91808C0E2C58",
+    "source": "Soul Heist",
+    "translation": "Похищение душ"
+  },
+  {
+    "namespace": "",
+    "key": "104BCD8E4F2DE1FDE0CF64B86716CFDC",
+    "source": "Singleplayer",
+    "translation": "Одиночная игра"
+  },
+  {
+    "namespace": "",
+    "key": "73CE99614E12B84C377DDC8BAC0BB70D",
+    "source": "Multiplayer",
+    "translation": "Сетевая игра"
+  },
+  {
+    "namespace": "",
+    "key": "BFFAE1ED47B63B09A66EAA9454A1051B",
+    "source": "Assign a Player",
+    "translation": "Назначить игрока"
+  },
+  {
+    "namespace": "",
+    "key": "CE614FDC40E99360BD998DBBF88AFC66",
+    "source": "Cancel",
+    "translation": "Отмена"
+  },
+  {
+    "namespace": "",
+    "key": "2FE83549497E63E9142515BE22B4A604",
+    "source": "Customize",
+    "translation": "Настроить"
+  },
+  {
+    "namespace": "",
+    "key": "2941329A43AE5307A9EFABBA34B2566D",
+    "source": "Customize",
+    "translation": "Настроить"
+  },
+  {
+    "namespace": "",
+    "key": "C5C7951447B17AA99BA455ADE3CF6ABB",
+    "source": "Details",
+    "translation": "Подробности"
+  },
+  {
+    "namespace": "",
+    "key": "0011A5644FFC5D9B9D9FBD8E67825601",
+    "source": "Ready!",
+    "translation": "Готов!"
+  },
+  {
+    "namespace": "",
+    "key": "769DC94744B6EE77C7505E960F64126B",
+    "source": "Embark",
+    "translation": "В путь"
+  },
+  {
+    "namespace": "",
+    "key": "F25B659D4324FF4DA48BCEAC682D4E61",
+    "source": "Successful Runs: <highlight>{Value}</>",
+    "translation": "Успешные забеги: <highlight>{Value}</>"
+  },
+  {
+    "namespace": "",
+    "key": "DCE53BBA4CC73E1E1C4E24ADE3773791",
+    "source": "Locked",
+    "translation": "Недоступно"
+  },
+  {
+    "namespace": "",
+    "key": "A432FA9040887CF5B76EF6AE113AB47B",
+    "source": "Do you want to permanently delete",
+    "translation": "Вы действительно хотите навсегда удалить"
+  },
+  {
+    "namespace": "",
+    "key": "0D74BDC449071246D5B4DE9B1AA5846B",
+    "source": "Delete Saved Game",
+    "translation": "Удалить сохранение"
+  },
+  {
+    "namespace": "",
+    "key": "B6CB48AE47843ADD80386AB9AA396EC0",
+    "source": "Cancel",
+    "translation": "Отмена"
+  },
+  {
+    "namespace": "",
+    "key": "645903464AAA169064C75395EE1645FE",
+    "source": "It seems that there are no save files for this user",
+    "translation": "У этого пользователя нет сохранений"
+  },
+  {
+    "namespace": "",
+    "key": "7A1EC35B40014EBB8089D4A974CDE4C8",
+    "source": "Do you want to permanently delete",
+    "translation": "Вы действительно хотите навсегда удалить"
+  },
+  {
+    "namespace": "",
+    "key": "1EF952FE4FA535F3EC14FF916AB6EA72",
+    "source": "Populating data...",
+    "translation": "Загрузка данных..."
+  },
+  {
+    "namespace": "",
+    "key": "E5BEA6364C8FC1068B805C8D60E9BC10",
+    "source": "Evil Dead",
+    "translation": "Зловещие мертвецы"
+  },
+  {
+    "namespace": "",
+    "key": "7A09963B4E0157200DD56290F92BA5A8",
+    "source": "Adventure",
+    "translation": "Приключение"
+  },
+  {
+    "namespace": "",
+    "key": "6AECF3954D9EBCC26FAB5F9520660E9B",
+    "source": "Tale",
+    "translation": "История"
+  },
+  {
+    "namespace": "",
+    "key": "FFF5C6ED451403AE7D2C66B4351A914D",
+    "source": "Game Mode",
+    "translation": "Режим игры"
+  },
+  {
+    "namespace": "",
+    "key": "115B8AFD415FDD23EF65298B7229E81C",
+    "source": "Saved Games",
+    "translation": "Сохранения"
+  },
+  {
+    "namespace": "",
+    "key": "E1DD9B564C7BC83A77043E96082DE6EB",
+    "source": "Room 5",
+    "translation": "Комната 5"
+  },
+  {
+    "namespace": "",
+    "key": "A8BC1F514C4A1E01B852818B16A41FEB",
+    "source": "Location",
+    "translation": "Место"
+  },
+  {
+    "namespace": "",
+    "key": "99EE10DA47B647826916439EC437D646",
+    "source": "Delete Saved Game",
+    "translation": "Удалить сохранение"
+  },
+  {
+    "namespace": "",
+    "key": "F0D71DCC466E0AA64C0AE4AB32CE1679",
+    "source": "Save Date",
+    "translation": "Дата сохранения"
+  },
+  {
+    "namespace": "",
+    "key": "16A372894D59A66FF411C79BB91337B8",
+    "source": "Saved Games",
+    "translation": "Сохранения"
+  },
+  {
+    "namespace": "",
+    "key": "D2A1D97A490F035A3A25EE905B9C0D16",
+    "source": "Version",
+    "translation": "Версия"
+  },
+  {
+    "namespace": "",
+    "key": "5E2070134124EE39D2EC65A6A3959AAF",
+    "source": "Go back to Main Menu",
+    "translation": "Вернуться в главное меню"
+  },
+  {
+    "namespace": "",
+    "key": "DDF56B9B4B85699FDED8678D135330BE",
+    "source": "Cancel",
+    "translation": "Отмена"
+  },
+  {
+    "namespace": "",
+    "key": "29475E3A4C8C4E58F64291BD15F0BEF8",
+    "source": "Delete",
+    "translation": "Удалить"
+  },
+  {
+    "namespace": "",
+    "key": "F24FD4BA4850CDFF3656D99CBE5B765F",
+    "source": "Delete Saved Game",
+    "translation": "Удалить сохранение"
+  },
+  {
+    "namespace": "",
+    "key": "0C43C0784562F7E23E8C92A31C436EBB",
+    "source": "Load Saved Game",
+    "translation": "Загрузить сохранение"
+  },
+  {
+    "namespace": "",
+    "key": "7F0EF15F4AECCCC50E0AC68069E511D1",
+    "source": "Load Game",
+    "translation": "Загрузить игру"
+  },
+  {
+    "namespace": "",
+    "key": "6CC171DD4BE53F469CCAF49358E983DD",
+    "source": "Incompatible Version",
+    "translation": "Несовместимая версия"
+  },
+  {
+    "namespace": "",
+    "key": "F84E19994D541227FA872DAC6F013D7E",
+    "source": "Saved game is incompatible with this version of game.",
+    "translation": "Сохранение несовместимо с этой версией игры."
+  },
+  {
+    "namespace": "",
+    "key": "48B1B86940A095BA42C7A8A951B6CD5A",
+    "source": "Load anyway",
+    "translation": "Всё равно загрузить"
+  },
+  {
+    "namespace": "",
+    "key": "A3CCB52E45C3B327FB283A8288945044",
+    "source": "Back",
+    "translation": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "8F402606436FD53103A2599C39EE40BD",
+    "source": "Do you want to permanently delete: <Strong>{SaveName}</>?",
+    "translation": "Навсегда удалить сохранение <Strong>{SaveName}</>?"
+  },
+  {
+    "namespace": "",
+    "key": "744D4D4046DA3467AC9B39B05C97FAAC",
+    "source": "Delete Saved Game",
+    "translation": "Удалить сохранение"
+  },
+  {
+    "namespace": "",
+    "key": "F532F68048A6F07BE110B289CAF22D5E",
+    "source": "Delete",
+    "translation": "Удалить"
+  },
+  {
+    "namespace": "",
+    "key": "9D4C124040F84D0BD795B7A2BCF95108",
+    "source": "Lobby Name <highlight>(required)</>",
+    "translation": "Название лобби <highlight>(обязательно)</>"
+  },
+  {
+    "namespace": "",
+    "key": "DFC2FB5847BBCF6AF82F809F3150B101",
+    "source": "Privacy Settings",
+    "translation": "Настройки доступа"
+  },
+  {
+    "namespace": "",
+    "key": "4484CA9D4AC392F1E52D3B830D290A55",
+    "source": "Adventures",
+    "translation": "Приключения"
+  },
+  {
+    "namespace": "",
+    "key": "BA70057A4CBF650562ADF181A854BCEC",
+    "source": "Select Adventure",
+    "translation": "Выберите приключение"
+  },
+  {
+    "namespace": "",
+    "key": "70301E5B4F556CCF6DFF4886E42ED354",
+    "source": "Game Mode",
+    "translation": "Режим игры"
+  },
+  {
+    "namespace": "",
+    "key": "B9B4135F4A6A648E969B179A20DA6CD6",
+    "source": "Configure Lobby",
+    "translation": "Настройка лобби"
+  },
+  {
+    "namespace": "",
+    "key": "BDEAB4E9447437AD08461DA1C036A6A2",
+    "source": "Cancel",
+    "translation": "Отмена"
+  },
+  {
+    "namespace": "",
+    "key": "7F5563D8461D0DF8424161ADC8A727B0",
+    "source": "Create Lobby",
+    "translation": "Создать лобби"
+  },
+  {
+    "namespace": "",
+    "key": "1A13B0364F625E591F217ABB9730994E",
+    "source": "Load Game",
+    "translation": "Загрузить игру"
+  },
+  {
+    "namespace": "",
+    "key": "F0AAF5CC40C022B8306A8FA959B38C12",
+    "source": "Public",
+    "translation": "Открытое"
+  },
+  {
+    "namespace": "",
+    "key": "A90F559340264481804FD397C866E785",
+    "source": "Private",
+    "translation": "Закрытое"
+  },
+  {
+    "namespace": "",
+    "key": "C570BE814DB6EF2E5D270E8B61D28ABD",
+    "source": "Server name",
+    "translation": "Название сервера"
+  },
+  {
+    "namespace": "",
+    "key": "6AEC7A104A9420ADC09B34BC604D31A9",
+    "source": "Your lobby name",
+    "translation": "Название вашего лобби"
+  },
+  {
+    "namespace": "",
+    "key": "1613626743BBF5FC3B3CBEA439507ADC",
+    "source": "Configure Lobby",
+    "translation": "Настройка лобби"
+  },
+  {
+    "namespace": "",
+    "key": "74665AE240131E94044EF9A6C4354D4E",
+    "source": "Save Changes",
+    "translation": "Сохранить изменения"
+  },
+  {
+    "namespace": "",
+    "key": "4F8852C74674AFCB2986F2BF049B5676",
+    "source": "New Lobby",
+    "translation": "Новое лобби"
+  },
+  {
+    "namespace": "",
+    "key": "2740732B4B4F34D19BE5B3BF84A7B54A",
+    "source": "Create Lobby",
+    "translation": "Создать лобби"
+  },
+  {
+    "namespace": "",
+    "key": "B9EFF557425D10DCEF3615AE0A691C07",
+    "source": "Adventure",
+    "translation": "Приключение"
+  },
+  {
+    "namespace": "",
+    "key": "F8E9E368454046492D862C97574324F1",
+    "source": "Date",
+    "translation": "Дата"
+  },
+  {
+    "namespace": "",
+    "key": "11ACD81944A8032EA4C858BE12172CEC",
+    "source": "Location",
+    "translation": "Место"
+  },
+  {
+    "namespace": "",
+    "key": "234F1B7540E0DF2DB8BFA08636DBE2E8",
+    "source": "Dark Carnival",
+    "translation": "Мрачный карнавал"
+  },
+  {
+    "namespace": "",
+    "key": "E3CCFAE54D13066AE7DCD1BADD23A3F7",
+    "source": "Catacombs",
+    "translation": "Катакомбы"
+  },
+  {
+    "namespace": "",
+    "key": "F02551104B812DBC62CB3BAE474BC2C1",
+    "source": "Room 7",
+    "translation": "Комната 7"
+  },
+  {
+    "namespace": "",
+    "key": "8F340900409EECE2FA6DC4A2A622292B",
+    "source": "Invite Code:",
+    "translation": "Код приглашения:"
+  },
+  {
+    "namespace": "",
+    "key": "32DCE65E485773F6B7DC42B63E41B61D",
+    "source": "Lobby Name",
+    "translation": "Название лобби"
+  },
+  {
+    "namespace": "",
+    "key": "8D18DC5D4F196AE481CF5B9F645DC1FD",
+    "source": "Lobby Type",
+    "translation": "Тип лобби"
+  },
+  {
+    "namespace": "",
+    "key": "7C7493304775058B6A10B9A6692D089C",
+    "source": "Private Lobby",
+    "translation": "Закрытое лобби"
+  },
+  {
+    "namespace": "",
+    "key": "C72B2930443B9D383B36468F8B9A2CA2",
+    "source": "Public Lobby",
+    "translation": "Открытое лобби"
+  },
+  {
+    "namespace": "",
+    "key": "60ED17D54D2F2FBBD64B0D9739DC4D68",
+    "source": "<img id=\"Warning\"/> Each Player must have at least one Character assigned.",
+    "translation": "<img id=\"Warning\"/> Каждому игроку нужно назначить хотя бы одного персонажа."
+  },
+  {
+    "namespace": "",
+    "key": "FC1178974D56FD286F011A8F9BC85021",
+    "source": "The Run will start when all players click Ready.",
+    "translation": "Забег начнётся, когда все игроки нажмут «Готов»."
+  },
+  {
+    "namespace": "",
+    "key": "0B9911EA486AB8B93189EAB61A3C5139",
+    "source": "Ready",
+    "translation": "Готов"
+  },
+  {
+    "namespace": "",
+    "key": "BE2631974E5CF75C593DBD8EA173FBF4",
+    "source": "Not Ready",
+    "translation": "Не готов"
+  },
+  {
+    "namespace": "",
+    "key": "90E2C3194F73CAAC886728AAC0F59392",
+    "source": "Filter by Term",
+    "translation": "Фильтр по слову"
+  },
+  {
+    "namespace": "",
+    "key": "7B3D3EE54A20BC4F1200B08820B7B03E",
+    "source": "Sort by Category",
+    "translation": "Сортировать по категории"
+  },
+  {
+    "namespace": "",
+    "key": "00745E574BA2093CF53CCEB987E7AE9A",
+    "source": "Sorting Order",
+    "translation": "Порядок сортировки"
+  },
+  {
+    "namespace": "",
+    "key": "33430DF54ED3EE1A778098967AAC7DB3",
+    "source": "Apply",
+    "translation": "Применить"
+  },
+  {
+    "namespace": "",
+    "key": "2BF367254E890769CCDACAA2447FF41F",
+    "source": "Cancel",
+    "translation": "Отмена"
+  },
+  {
+    "namespace": "",
+    "key": "83F3E6E84FAEA1EBD877159B761079B7",
+    "source": "Category",
+    "translation": "Категория"
+  },
+  {
+    "namespace": "",
+    "key": "C4718E3147BA292E5B384BB970F04BF5",
+    "source": "Filter and Sort",
+    "translation": "Фильтр и сортировка"
+  },
+  {
+    "namespace": "",
+    "key": "90F4D66F43023A46351651AE1B5AD6E2",
+    "source": "Ascending",
+    "translation": "По возрастанию"
+  },
+  {
+    "namespace": "",
+    "key": "4236A59A4D526544DACE9D8C98864D92",
+    "source": "Descending",
+    "translation": "По убыванию"
+  },
+  {
+    "namespace": "",
+    "key": "74F740064A447CE37A6CF5B641709F6B",
+    "source": "Enter Term",
+    "translation": "Введите слово"
+  },
+  {
+    "namespace": "",
+    "key": "5BE944344C820963AF886A87C698D0F3",
+    "source": "Player Count",
+    "translation": "Число игроков"
+  },
+  {
+    "namespace": "",
+    "key": "E222DA7B4F60C6F07A0859BAC557F2A4",
+    "source": "Game Mode",
+    "translation": "Режим игры"
+  },
+  {
+    "namespace": "",
+    "key": "524C34344B59F4808D783680BE100981",
+    "source": "Adventure Name",
+    "translation": "Название приключения"
+  },
+  {
+    "namespace": "",
+    "key": "1DB263254F8BEDAA373C31BD95AC451F",
+    "source": "Server Name",
+    "translation": "Название сервера"
+  },
+  {
+    "namespace": "",
+    "key": "E2C7F19740FFC5BAB81E2CA7D2FDF8F8",
+    "source": "Category",
+    "translation": "Категория"
+  },
+  {
+    "namespace": "",
+    "key": "327DBAB04AA98383D4DC60AFE58872C5",
+    "source": "Invite Code",
+    "translation": "Код приглашения"
+  },
+  {
+    "namespace": "",
+    "key": "3BF8B49F4DDD1FD04ED85CA5198FD770",
+    "source": "Enter the code provided by the game host to join.\r\nParties already on an Adventure can’t be joined.\r\nWait until they return to the lobby to join.",
+    "translation": "Введите код от создателя игры, чтобы присоединиться.\nК отрядам, уже отправившимся в приключение, присоединиться нельзя.\nДождитесь их возвращения в лобби."
+  },
+  {
+    "namespace": "",
+    "key": "7A3E27EE4FA501CFD30F97AC70ABB61F",
+    "source": "Joining...",
+    "translation": "Подключение..."
+  },
+  {
+    "namespace": "",
+    "key": "A69C108C4794B6C42334608DEAD7D0DC",
+    "source": "Cancel",
+    "translation": "Отмена"
+  },
+  {
+    "namespace": "",
+    "key": "A94A793046A502BC3D26DAB4B8DBB485",
+    "source": "Join",
+    "translation": "Войти"
+  },
+  {
+    "namespace": "",
+    "key": "6FB74FCD41184A7C4A90888B10B1B643",
+    "source": "Join by Invite Code",
+    "translation": "Войти по коду приглашения"
+  },
+  {
+    "namespace": "",
+    "key": "BFD7D62843CAD6C730C981B95FF29138",
+    "source": "Enter Invite Code",
+    "translation": "Введите код приглашения"
+  },
+  {
+    "namespace": "",
+    "key": "359F57964A1A414BADF2719EDFF58EEA",
+    "source": "Multiplayer Lobbies",
+    "translation": "Сетевые лобби"
+  },
+  {
+    "namespace": "",
+    "key": "39447E6D4C441067BED9848E5E3D9BC3",
+    "source": "Create Lobby",
+    "translation": "Создать лобби"
+  },
+  {
+    "namespace": "",
+    "key": "2AF2A77B4ED629B045869EB56EAA3B7A",
+    "source": "No lobby named:{StartRichText} {Search}{EndRichText} was found",
+    "translation": "Лобби с названием{StartRichText} {Search}{EndRichText} не найдено"
+  },
+  {
+    "namespace": "",
+    "key": "E7175B31404B05D86F640BBBF934C5CD",
+    "source": "Search concluded, no lobbies found.",
+    "translation": "Поиск завершён, лобби не найдены."
+  },
+  {
+    "namespace": "",
+    "key": "0AFFA7FE4D4C9ABA8B9721BFFCC39329",
+    "source": "Searching...",
+    "translation": "Поиск..."
+  },
+  {
+    "namespace": "",
+    "key": "1850811A45C9E8EF431B7CA018248FB8",
+    "source": "Players",
+    "translation": "Игроки"
+  },
+  {
+    "namespace": "",
+    "key": "29BF30E74959C93BD714C39ED649CF90",
+    "source": "Game Mode",
+    "translation": "Режим игры"
+  },
+  {
+    "namespace": "",
+    "key": "80E5C34B44406D87EB86D7B4DE92C98F",
+    "source": "Adventure",
+    "translation": "Приключение"
+  },
+  {
+    "namespace": "",
+    "key": "D945153147FF933BC24140BD8FE822BF",
+    "source": "Server Name",
+    "translation": "Название сервера"
+  },
+  {
+    "namespace": "",
+    "key": "05A5008C46508B24283F14A000FD868D",
+    "source": "Select Category",
+    "translation": "Выберите категорию"
+  },
+  {
+    "namespace": "",
+    "key": "37934AB643A99499EAFFEEB59973EF5D",
+    "source": "Choose a category to sort by.",
+    "translation": "Выберите категорию для сортировки."
+  },
+  {
+    "namespace": "",
+    "key": "9A3FAA0A429901061D23038678039C86",
+    "source": "Cancel",
+    "translation": "Отмена"
+  },
+  {
+    "namespace": "",
+    "key": "9CF1B76E4A7109EA01B0048B0DE33843",
+    "source": "Adventure Name",
+    "translation": "Название приключения"
+  },
+  {
+    "namespace": "",
+    "key": "4FDCE1A0498B2A281448B59DC44F7475",
+    "source": "Game Mode",
+    "translation": "Режим игры"
+  },
+  {
+    "namespace": "",
+    "key": "C394D85C4FA20453078F19A92AA6878D",
+    "source": "Player Count",
+    "translation": "Число игроков"
+  },
+  {
+    "namespace": "",
+    "key": "F9106B034A1C9B8CA07DF3B336D03A1B",
+    "source": "Server Name",
+    "translation": "Название сервера"
+  },
+  {
+    "namespace": "",
+    "key": "7470BC624C7188C98D7A1CACB1A80394",
+    "source": "Back",
+    "translation": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "4E9CFF7F42917F3DB16F509FDBA630F8",
+    "source": "Load Game",
+    "translation": "Загрузить игру"
+  },
+  {
+    "namespace": "",
+    "key": "DBA209704B0F580C1E9DE79E37310D1D",
+    "source": "New Game",
+    "translation": "Новая игра"
+  },
+  {
+    "namespace": "",
+    "key": "C46287484608D3CC324445844B87827A",
+    "source": "Resume",
+    "translation": "Продолжить"
+  },
+  {
+    "namespace": "",
+    "key": "9896CF30DF92426F9278FEFF416D8002",
+    "source": "To unlock Multiplayer you must finish the Tutorial first",
+    "translation": "Чтобы открыть сетевую игру, сначала завершите обучение"
+  },
+  {
+    "namespace": "",
+    "key": "A46F9F98441C3F442C43A4910960C0EF",
+    "source": "You gained {Amount}{aurum}.",
+    "translation": "Вы получили {Amount}{aurum}."
+  },
+  {
+    "namespace": "",
+    "key": "F709BEAC4314A08FDC3260AA7569E2BA",
+    "source": "You gained {Amount}{aurum}.",
+    "translation": "Вы получили {Amount}{aurum}."
+  },
+  {
+    "namespace": "",
+    "key": "FC73397C416B9A44C32FDB9F06CEDD5F",
+    "source": "Deck",
+    "translation": "Колода"
+  },
+  {
+    "namespace": "",
+    "key": "F57DDDE047B2C0496BE7CBAAB54F190D",
+    "source": "Hand",
+    "translation": "Рука"
+  },
+  {
+    "namespace": "",
+    "key": "C82154AE49EB46AAB368998A76F493D6",
+    "source": "Draw",
+    "translation": "Колода добора"
+  },
+  {
+    "namespace": "",
+    "key": "DA0A7F2C4A3FB07EEAAD5782BB9D6DDA",
+    "source": "Discard",
+    "translation": "Сброс"
+  },
+  {
+    "namespace": "",
+    "key": "40FB61364BF10B937170D091576FADE5",
+    "source": "Exhaust",
+    "translation": "Истощение"
+  },
+  {
+    "namespace": "",
+    "key": "F007B3B24A7E08B8C67BA9AD49B1E8E0",
+    "source": "Void",
+    "translation": "Пустота"
+  },
+  {
+    "namespace": "",
+    "key": "DADFA0D64FD237B8ABE37FB790BDDEC3",
+    "source": "Play",
+    "translation": "Разыграть"
+  },
+  {
+    "namespace": "",
+    "key": "70FD6FE14CC783D8DB56A597EACB6FB3",
+    "source": "Deck",
+    "translation": "Колода"
+  },
+  {
+    "namespace": "",
+    "key": "0A7E33494459978D440D7C87CF2E1C2E",
+    "source": "Kill <card_damage>skeleton</> to remove this Influence.",
+    "translation": "Убейте <card_damage>скелета</>, чтобы снять этот эффект."
+  },
+  {
+    "namespace": "",
+    "key": "2C94880D41B669F213286386E9A6000E",
+    "source": "Character",
+    "translation": "Персонаж"
+  },
+  {
+    "namespace": "",
+    "key": "D4854A57475237D757AED380816D05E7",
+    "source": "Influences",
+    "translation": "Эффекты"
+  },
+  {
+    "namespace": "",
+    "key": "9925A7514C43337EFA52A183CC8E6B00",
+    "source": "Equipment",
+    "translation": "Снаряжение"
+  },
+  {
+    "namespace": "",
+    "key": "1E99F537495E89C24F6018B64D71272C",
+    "source": "Deck",
+    "translation": "Колода"
+  },
+  {
+    "namespace": "",
+    "key": "5494428440E10FD5C7FFBDB03B9BAD4C",
+    "source": "Draw",
+    "translation": "Колода добора"
+  },
+  {
+    "namespace": "",
+    "key": "3A497AF84FCA3407B70259BEE622EAF1",
+    "source": "Discard",
+    "translation": "Сброс"
+  },
+  {
+    "namespace": "",
+    "key": "E0F735FF41800F3B05D2099A6FE851A4",
+    "source": "Exhaust",
+    "translation": "Истощение"
+  },
+  {
+    "namespace": "",
+    "key": "F875CEEF40CCC38934ACA4A83336CE97",
+    "source": "Paladin",
+    "translation": "Паладин"
+  },
+  {
+    "namespace": "",
+    "key": "86BD5BC04DA2327B50CF0F9600B03BE9",
+    "source": "Paladin",
+    "translation": "Паладин"
+  },
+  {
+    "namespace": "",
+    "key": "FF34C2DD45D1E6E8FA62C7A03E952F28",
+    "source": "Character hands",
+    "translation": "Карты персонажей"
+  },
+  {
+    "namespace": "",
+    "key": "F0569A93443562595D7953A139E7175B",
+    "source": "Join during adventure is not yet supported.",
+    "translation": "Присоединение во время приключения пока не поддерживается."
+  },
+  {
+    "namespace": "",
+    "key": "3BF4F85D43999F5D7834809D054C3AAF",
+    "source": "{PlayerName} has joined.",
+    "translation": "Игрок {PlayerName} присоединился."
+  },
+  {
+    "namespace": "",
+    "key": "9D50D7EE413E18D56D71E5B02932F1FF",
+    "source": "{PlayerName} has left.\r\nYou now control their characters.",
+    "translation": "Игрок {PlayerName} вышел.\nТеперь вы управляете его персонажами."
+  },
+  {
+    "namespace": "",
+    "key": "58B5C8AE424AA66854E033B930EEBEEC",
+    "source": "{PlayerName} has left.",
+    "translation": "Игрок {PlayerName} вышел."
+  },
+  {
+    "namespace": "",
+    "key": "9A2FACB6402F39A1E0AAD88DB9DB3144",
+    "source": "{PlayerName} has left.\r\nThe host now controls their characters.",
+    "translation": "Игрок {PlayerName} вышел.\nТеперь его персонажами управляет создатель игры."
+  },
+  {
+    "namespace": "",
+    "key": "014CCE0C406BFB4D30131EB82CDEF834",
+    "source": "<img id=\"Paladin\"/> Paladin",
+    "translation": "<img id=\"Paladin\"/> Паладин"
+  },
+  {
+    "namespace": "",
+    "key": "EEBB2A854E22D08FF67E3FADBE9483E1",
+    "source": "Templar Sword",
+    "translation": "Меч храмовника"
+  },
+  {
+    "namespace": "",
+    "key": "252796224481E987B64DEEBB8788E7E9",
+    "source": "<highlight>Off-hand Weapon</>",
+    "translation": "<highlight>Оружие для второй руки</>"
+  },
+  {
+    "namespace": "",
+    "key": "008913D34459169ADB81E5BE35210075",
+    "source": "New Unlock!",
+    "translation": "Открыто новое!"
+  },
+  {
+    "namespace": "",
+    "key": "6113C50E4C97EDDFF2E80197F9D79665",
+    "source": "Cards",
+    "translation": "Карты"
+  },
+  {
+    "namespace": "",
+    "key": "21BFCA904A4E42ED9CB183ABB028F876",
+    "source": "Card",
+    "translation": "Карта"
+  },
+  {
+    "namespace": "",
+    "key": "B9F324854E3760EDA955CCA192CF1EB8",
+    "source": "New {card}",
+    "translation": "Получено: {card}"
+  },
+  {
+    "namespace": "",
+    "key": "C7B2392541333C3AA52040BAC162C768",
+    "source": "Removed {card}",
+    "translation": "Удалено: {card}"
+  },
+  {
+    "namespace": "",
+    "key": "F95970BD46A59DF8ED3D05AEABB58E95",
+    "source": "Artifacts",
+    "translation": "Артефакты"
+  },
+  {
+    "namespace": "",
+    "key": "64102777441CD14C3187CEBAF7B5462C",
+    "source": "Artifact",
+    "translation": "Артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "D673ACA849D6C8A50DB224A4A302D6A5",
+    "source": "New {artifact}",
+    "translation": "Получено: {artifact}"
+  },
+  {
+    "namespace": "",
+    "key": "F60E328043040701D712F78E78B55943",
+    "source": "Claim Rewards",
+    "translation": "Забрать награды"
+  },
+  {
+    "namespace": "",
+    "key": "ED077115421F9E9F6D4D8CA38CEFBE83",
+    "source": "Select a Character and press <img id=\"GamepadFaceButtonBottom\"/> to choose their rewards again.",
+    "translation": "Выберите персонажа и нажмите <img id=\"GamepadFaceButtonBottom\"/>, чтобы заново выбрать для него награды."
+  },
+  {
+    "namespace": "",
+    "key": "91FA6F7D40499C03CFE3968D1E403F7B",
+    "source": "Click on a Character to choose their rewards again.",
+    "translation": "Нажмите на персонажа, чтобы заново выбрать для него награды."
+  },
+  {
+    "namespace": "",
+    "key": "F5F2C6AF41D38B8E417D01BB1F3FED73",
+    "source": "Carried Weight:",
+    "translation": "Переносимый вес:"
+  },
+  {
+    "namespace": "",
+    "key": "75F042EA44B34AFA378115B8E0DFC6C5",
+    "source": "Claim this Artifact to add it to your Inventory.",
+    "translation": "Заберите этот артефакт, чтобы добавить его в инвентарь."
+  },
+  {
+    "namespace": "",
+    "key": "CE88079A483ECB0C31E4B2AA3FFBA1E4",
+    "source": "This Artifact is too heavy and can’t be claimed!",
+    "translation": "Этот артефакт слишком тяжёлый: вы не можете его забрать!"
+  },
+  {
+    "namespace": "",
+    "key": "A7CE4BD94D3A8DE5FE56159731E9158E",
+    "source": "Claiming this Artifact will exceed your Carrying Weight.",
+    "translation": "С этим артефактом вы превысите допустимый переносимый вес."
+  },
+  {
+    "namespace": "",
+    "key": "668C85D34FAD8DE63DE1B5B248B5D6A6",
+    "source": "Skip This Reward",
+    "translation": "Отказаться от награды"
+  },
+  {
+    "namespace": "",
+    "key": "D2A975334F19DB9B9E99E0A899DACBD7",
+    "source": "Cards Using the Attribute",
+    "translation": "Карты, зависящие от этой характеристики"
+  },
+  {
+    "namespace": "",
+    "key": "24CBDFCB45084C5546C49F9250A15B4F",
+    "source": "Choose a Card or increase one of your Attributes.",
+    "translation": "Выберите карту или повысьте одну из своих характеристик."
+  },
+  {
+    "namespace": "",
+    "key": "6DC4FAC64E4A89486107399B04FBACEC",
+    "source": "Skip This Reward",
+    "translation": "Отказаться от награды"
+  },
+  {
+    "namespace": "",
+    "key": "21EEC48C4A9177DAE5445A963CD83CC5",
+    "source": "Cards Using the Attribute",
+    "translation": "Карты, зависящие от этой характеристики"
+  },
+  {
+    "namespace": "",
+    "key": "365D0DB94C61C6A5B7A882BA200DA6DC",
+    "source": "Attributes",
+    "translation": "Характеристики"
+  },
+  {
+    "namespace": "",
+    "key": "F8AF464E4E309D49381AFE8D464044A3",
+    "source": "Rewards",
+    "translation": "Награды"
+  },
+  {
+    "namespace": "",
+    "key": "3300E3214CA34E802BEA2984938E8D1A",
+    "source": "Choose a Reward",
+    "translation": "Выберите награду"
+  },
+  {
+    "namespace": "",
+    "key": "2616FB8948A680E0A248379579F8A75A",
+    "source": "Summary",
+    "translation": "Итоги"
+  },
+  {
+    "namespace": "",
+    "key": "6620E7BF49CAEBC44E4C25BC34677D01",
+    "source": "Card or Attribute",
+    "translation": "Карта или характеристика"
+  },
+  {
+    "namespace": "",
+    "key": "F7FDAA0949514DC2734596827194489F",
+    "source": "Card or Attribute",
+    "translation": "Карта или характеристика"
+  },
+  {
+    "namespace": "",
+    "key": "17BF5A52425C8B38E8B26784533691AD",
+    "source": "Apply Changes",
+    "translation": "Применить изменения"
+  },
+  {
+    "namespace": "",
+    "key": "A108547D4486BB50120E2684AE9570A6",
+    "source": "Reset Changes",
+    "translation": "Отменить изменения"
+  },
+  {
+    "namespace": "",
+    "key": "E3F5C3BF4110F9124CFF3084CBA67360",
+    "source": "Back",
+    "translation": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "E27D1AE5403D2557988EFDAA9DDE408B",
+    "source": "Options",
+    "translation": "Настройки"
+  },
+  {
+    "namespace": "",
+    "key": "EF488FED4FED16F1A5CC4CB860EE81A4",
+    "source": "Behold, brave wanderers! I am the Djinni of the Shifting Vaults—approach with courage, for I can replace any artifact… for a price. Step forward if you dare, and let the winds decide your fortune.",
+    "translation": "Внемлите, отважные странники! Я — джинн Блуждающих хранилищ. Подходите смелее: я могу заменить любой артефакт… за плату. Шагните вперёд, если хватит духу, и пусть ветры решат вашу судьбу."
+  },
+  {
+    "namespace": "",
+    "key": "B3E704964C3DBE0F66E3DCAF1F4E1463",
+    "source": "Behold, brave wanderers! I am the Djinni of the Shifting Vaults—approach with courage, for I can replace any artifact… for a price. Step forward if you dare, and let the winds decide your fortune.",
+    "translation": "Внемлите, отважные странники! Я — джинн Блуждающих хранилищ. Подходите смелее: я могу заменить любой артефакт… за плату. Шагните вперёд, если хватит духу, и пусть ветры решат вашу судьбу."
+  },
+  {
+    "namespace": "",
+    "key": "291EBE4B4688A073C0DBFB9CC43B592C",
+    "source": "Card Shop",
+    "translation": "Карточная лавка"
+  },
+  {
+    "namespace": "",
+    "key": "CB895AF4491B8826B13330B34C1140E6",
+    "source": "Back",
+    "translation": "Назад"
+  },
+  {
+    "namespace": "",
+    "key": "34DD261C48A65B62FCB13C9C400F0BAF",
+    "source": "Most Played Card",
+    "translation": "Чаще всего разыгрывалась"
+  },
+  {
+    "namespace": "",
+    "key": "0410E86E4BD1F0947365FBAC518B00CB",
+    "source": "Character Highlights",
+    "translation": "Достижения персонажа"
+  },
+  {
+    "namespace": "",
+    "key": "D2043D374D5E5648A20527AB3FF06EF6",
+    "source": "Party Highlights",
+    "translation": "Достижения отряда"
+  },
+  {
+    "namespace": "",
+    "key": "6BAD26CC449D26E7358102964611DD23",
+    "source": "Invalid",
+    "translation": "Некорректно"
+  },
+  {
+    "namespace": "",
+    "key": "36F8DA4D43CE597868D8EA9D2FF11A8E",
+    "source": "Run Time",
+    "translation": "Время забега"
+  },
+  {
+    "namespace": "",
+    "key": "BE016FD14B4FF7447C79348A1989EB78",
+    "source": "Locations Traveled",
+    "translation": "Посещено мест"
+  },
+  {
+    "namespace": "",
+    "key": "24038C584AD5B8323FC84694D5443975",
+    "source": "Gold Collected",
+    "translation": "Собрано золота"
+  },
+  {
+    "namespace": "",
+    "key": "056E9B6F4406BF5A605A2995221A6A79",
+    "source": "Monsters Vanquished",
+    "translation": "Побеждено врагов"
+  },
+  {
+    "namespace": "",
+    "key": "E27F73B8433E6B225B27C5AA7A2E1574",
+    "source": "Character Deaths",
+    "translation": "Смерти персонажей"
+  },
+  {
+    "namespace": "",
+    "key": "4E379F824CE5D922A4C671B2C380D168",
+    "source": "Cards Played",
+    "translation": "Разыграно карт"
+  },
+  {
+    "namespace": "",
+    "key": "91A3CF2F45C721D191A6718CEA2E0A20",
+    "source": "Damage Taken",
+    "translation": "Полученный урон"
+  },
+  {
+    "namespace": "",
+    "key": "007D75A94BCDCBFC3509D18B91665AFE",
+    "source": "Souls Carried",
+    "translation": "Души при себе"
+  },
+  {
+    "namespace": "",
+    "key": "F3DCF70046DC77C562204E8D15E20770",
+    "source": "System",
+    "translation": "Система"
+  },
+  {
+    "namespace": "",
+    "key": "6DF2A948487F0C0BB39D4AA0EB0646D7",
+    "source": "Abandon Game",
+    "translation": "Прервать игру"
+  },
+  {
+    "namespace": "",
+    "key": "7BD96C86448FE52797948E96BDA47476",
+    "source": "Almanac",
+    "translation": "Альманах"
+  },
+  {
+    "namespace": "",
+    "key": "BC186780404E4FE39962CFB3BB3B44BA",
+    "source": "Configure Lobby",
+    "translation": "Настройка лобби"
+  },
+  {
+    "namespace": "",
+    "key": "9691B7D348DFDBF2EF77E0B1686DE9C0",
+    "source": "Options",
+    "translation": "Настройки"
+  },
+  {
+    "namespace": "",
+    "key": "0EE8159D4370494E792D76AFFC4EBF59",
+    "source": "Quit",
+    "translation": "Выход"
+  },
+  {
+    "namespace": "",
+    "key": "AACDBA1142C12C34D3C1E39A98D350C7",
+    "source": "Reorganize the Party",
+    "translation": "Изменить состав отряда"
+  },
+  {
+    "namespace": "",
+    "key": "604A8DD14EAC3DB6BFEB9B90D5A67F81",
+    "source": "Resume",
+    "translation": "Продолжить"
+  },
+  {
+    "namespace": "",
+    "key": "39FB206C4D823842295A029260BA1435",
+    "source": "Unlocks",
+    "translation": "Разблокировки"
+  },
+  {
+    "namespace": "",
+    "key": "2504A17847C8040D58E113BE617B68B9",
+    "source": "Send Feedback",
+    "translation": "Отправить отзыв"
+  },
+  {
+    "namespace": "",
+    "key": "FAEB0E11443C717B886EFAB718C09CE5",
+    "source": "Quit",
+    "translation": "Выход"
+  },
+  {
+    "namespace": "",
+    "key": "D79EFE674CE2456C773939966786CA2A",
+    "source": "Ok",
+    "translation": "ОК"
+  },
+  {
+    "namespace": "",
+    "key": "70BF2BC54DD9DFCA12A538A9B6FC5983",
+    "source": "Abandon",
+    "translation": "Прервать"
+  },
+  {
+    "namespace": "",
+    "key": "A2FB2E8C40717654D6E868BD2F0DC8B4",
+    "source": "Are you sure you want to abandon the Adventure? Your progres will be lost.",
+    "translation": "Прервать приключение? Весь прогресс в нём будет потерян."
+  },
+  {
+    "namespace": "",
+    "key": "1AA4ABE7429E43D30256BCA4F53A1774",
+    "source": "Are you sure you want to quit the Prologue? You will have to play it from the beginning",
+    "translation": "Выйти из Пролога? В следующий раз его придётся начать заново."
+  },
+  {
+    "namespace": "",
+    "key": "DEEDDA8E4CFB3DBD72AEE792098E5EE5",
+    "source": "Are you sure you want to quit the lobby?",
+    "translation": "Выйти из лобби?"
+  },
+  {
+    "namespace": "",
+    "key": "721CCAAA461F67F4B40B7EBAEBE5A4D6",
+    "source": "Are you sure you want to quit the Adventure? You will have to play this location once again",
+    "translation": "Выйти из приключения? В следующий раз это место придётся пройти заново."
+  },
+  {
+    "namespace": "",
+    "key": "45C55D91445EAEC872AE70A9B40D3001",
+    "source": "Are you sure you want to quit the Adventure? You will not be able to join this session until the host goes back to the Lobby",
+    "translation": "Выйти из приключения? Вы сможете снова присоединиться к этому сеансу только после того, как создатель игры вернётся в лобби."
+  },
+  {
+    "namespace": "",
+    "key": "B5B126004D80CB5CAADA7B8A49107CF8",
+    "source": "Positive",
+    "translation": "Положительное"
+  },
+  {
+    "namespace": "",
+    "key": "7AA7094841C24527D6B3F484EE47338A",
+    "source": "Negative",
+    "translation": "Отрицательное"
+  },
+  {
+    "namespace": "",
+    "key": "CAC2626E4618F2B35111C5AD841A58F8",
+    "source": "Description",
+    "translation": "Описание"
+  },
+  {
+    "namespace": "",
+    "key": "D630AD6845443503F6EFA7BC411BF8DD",
+    "source": "Topic",
+    "translation": "Тема"
+  },
+  {
+    "namespace": "",
+    "key": "57635B1C471DC4286EED2EA1D2AE7E3B",
+    "source": "Close",
+    "translation": "Закрыть"
+  },
+  {
+    "namespace": "",
+    "key": "61C76DDA4CB254C731843AA7D119F5F0",
+    "source": "Topic",
+    "translation": "Тема"
+  },
+  {
+    "namespace": "",
+    "key": "DBD29AF1459E670AF54B56B2FDF00421",
+    "source": "Description",
+    "translation": "Описание"
+  },
+  {
+    "namespace": "",
+    "key": "C8A9BC2E483E44F179B6038C03FA54AD",
+    "source": "Starter Artifact",
+    "translation": "Начальный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "07D0B3B2450E296F5EAD678EE9FFF505",
+    "source": "Common Artifact",
+    "translation": "Обычный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "D50E861145B573455F55DCB857076F80",
+    "source": "Rare Artifact",
+    "translation": "Редкий артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "71A911AA493F30238E5695A530F6B4C5",
+    "source": "Legendary Artifact",
+    "translation": "Легендарный артефакт"
+  },
+  {
+    "namespace": "",
+    "key": "08F01D734F93B04091094F847D25740D",
+    "source": "Not available",
+    "translation": "Недоступно"
+  },
+  {
+    "namespace": "",
+    "key": "FFD9AE3044A58F4B123EE0800928DF92",
+    "source": "Challenge:",
+    "translation": "Испытание:"
+  },
+  {
+    "namespace": "",
+    "key": "934E54C549BF9BD5054D72BE762EBE44",
+    "source": "Armory",
+    "translation": "Оружейная"
+  }
+]

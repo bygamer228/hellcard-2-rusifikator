@@ -137,6 +137,14 @@ def main():
     BUILD = args.work_dir.resolve()
     info = load_json(ROOT / 'build-info.json')
     game = args.game.resolve()
+    # Supplemental FText identities come from cooked assets, so an unchanged
+    # main catalog alone is not sufficient evidence of a matching game build.
+    manifest = game.parent.parent / f'appmanifest_{info["steam_app_id"]}.acf'
+    if not manifest.is_file():
+        raise ValueError(f'Steam build manifest not found: {manifest}')
+    match = re.search(r'"buildid"\s+"(\d+)"', manifest.read_text(encoding='utf-8-sig'))
+    if not match or match.group(1) != info['steam_build_id']:
+        raise ValueError('This translation targets Steam build ' + info['steam_build_id'])
     source_pak = game / 'Tale/Content/Paks/pakchunk0-Windows.pak'
     if not source_pak.is_file():
         raise ValueError(f'Game PAK not found: {source_pak}')
@@ -151,6 +159,24 @@ def main():
     rows = read_csv(source_csv)
     translations = load_json(ROOT / 'translations/ru.json')
     report = validate(rows, translations)
+    additions = load_json(ROOT / 'translations/extra.json')
+    if not isinstance(additions, list):
+        raise ValueError('translations/extra.json must contain a list')
+    extra_rows = []
+    extra_targets = {}
+    for entry in additions:
+        if not all(isinstance(entry.get(field), str) for field in ('namespace', 'key', 'source', 'translation')):
+            raise ValueError('Each supplemental entry needs namespace, key, source, and translation strings')
+        if not entry['key'] or '/' in entry['key']:
+            raise ValueError('Invalid supplemental key')
+        key = entry['namespace'] + '/' + entry['key']
+        if key in extra_targets or key in translations:
+            raise ValueError(f'Duplicate supplemental identity: {key}')
+        extra_rows.append({'key': key, 'source': entry['source'].replace('\r\n', '\n')})
+        extra_targets[key] = entry['translation'].replace('\r\n', '\n')
+    extra_report = validate(extra_rows, extra_targets)
+    if extra_report['changed_newline_keys'] or extra_report['changed_literal_number_keys']:
+        raise ValueError('Supplemental entries changed line breaks or numbers')
     translated_csv = BUILD / 'translated.csv'
     with translated_csv.open('w', encoding='utf-8-sig', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=['key', 'source', 'target'])
@@ -160,10 +186,23 @@ def main():
     destination = stage / 'Tale/Content/Localization/Game/ru/Game.locres'
     destination.parent.mkdir(parents=True, exist_ok=True)
     run(locres, 'import', original, translated_csv, '-o', destination)
+    from locres_tools import read_locres, write_locres, add_entries
+    resource = read_locres(destination)
+    original_resource = read_locres(original)
+    original_ids = {(e.namespace, e.key): e.source_hash for e in original_resource.entries}
+    translated_ids = {(e.namespace, e.key): e.source_hash for e in resource.entries}
+    if translated_ids != original_ids:
+        raise ValueError('Base translation changed original FText identities or source hashes')
+    resource = add_entries(resource, additions)
+    write_locres(destination, resource)
+    def identities_and_values(res):
+        return {e.identity: (e.source_hash, e.value) for e in res.entries}
+    if identities_and_values(read_locres(destination)) != identities_and_values(resource):
+        raise ValueError('Supplemental LOCRES identities, source hashes, or text changed during write')
     verify_csv = BUILD / 'roundtrip.csv'
     run(locres, 'export', destination, '-o', verify_csv)
     actual = {row['key']: row['source'] for row in read_csv(verify_csv)}
-    if actual != translations:
+    if actual != dict(translations, **extra_targets):
         raise ValueError('Compiled locres did not round-trip exactly')
     stage_files = [p.relative_to(stage).as_posix() for p in stage.rglob('*') if p.is_file()]
     if stage_files != ['Tale/Content/Localization/Game/ru/Game.locres']:
@@ -176,11 +215,17 @@ def main():
     if sha256(verify / destination.relative_to(stage)) != sha256(destination):
         raise ValueError('PAK round-trip failed')
     info['patch_sha256'] = sha256(patch)
+    report['main_catalog_entries'] = report['entries']
+    report['supplemental_entries'] = extra_report['entries']
+    report['entries'] += extra_report['entries']
+    report['unchanged_keys'] += extra_report['unchanged_keys']
+    report['supplemental_identity_and_hash_check'] = 'pass'
     info['translated_entries'] = report['entries']
-    (ROOT / 'build-info.json').write_text(json.dumps(info, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    info['supplemental_entries'] = extra_report['entries']
+    (ROOT / 'build-info.json').write_text(json.dumps(info, ensure_ascii=False, indent=2) + '\n', encoding='utf-8', newline='\n')
     report['locres_roundtrip'] = 'pass'
     report['pak_roundtrip'] = 'pass'
-    (ROOT / 'validation.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    (ROOT / 'validation.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8', newline='\n')
     print(f'Built {patch.name}: {report["entries"]} strings; SHA256 {info["patch_sha256"]}')
 
 
